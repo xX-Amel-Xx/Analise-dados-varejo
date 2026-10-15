@@ -1,0 +1,351 @@
+﻿cliente_id;nome_cliente;cidade;uf;segmento;data_cadastro
+1;Cliente 0001;Goiânia;GO;Média Empresa;17/07/2024
+2;Cliente 0002;São Paulo;SP;Pessoa Física;29/07/2023
+3;Cliente 0003;Porto Alegre;RS;Média Empresa;14/05/2025
+4;Cliente 0004;Brasília;DF;Pessoa Física;23/03/2024
+5;Cliente 0005;Santos;SP;Média Empresa;24/02/2023
+6;Cliente 0006;Porto Alegre;RS;Média Empresa;21/01/2026
+7;Cliente 0007;Curitiba;PR;Pequena Empresa;21/04/2026
+8;Cliente 0008;Rio de Janeiro;RJ;Pessoa Física;15/05/2025
+9;Cliente 0009;Feira de Santana;BA;Pessoa Física;16/03/2024
+10;Cliente 0010;Salvador;BA;Pessoa Física;17/02/2025
+11;Cliente 0011;Anápolis;GO;Pequena Empresa;21/05/2026
+12;Cliente 0012;Rio de Janeiro;RJ;Média Empresa;29/07/2025
+13;Cliente 0013;Porto Alegre;RS;Pequena Empresa;11/06/2023
+14;Cliente 0014;Caxias do Sul;RS;Média Empresa;20/06/2026
+15;Cliente 0015;Salvador;BA;Média Empresa;23/05/2023
+16;Cliente 0016;Gama;DF;Pequena Empresa;13/06/2023
+17;Cliente 0017;São Paulo;SP;Pequena Empresa;23/07/2024
+18;Cliente 0018;Joinville;SC;Pessoa Física;28/01/2025
+19;Cliente 0019;Salvador;BA;Média Empresa;30/06/2024
+20;Cliente 0020;Aparecida de Goiânia;GO;Média Empresa;17/12/2023
+21;Cliente 0021;Porto Alegre;RS;Pessoa Física;04/08/2025
+22;Cliente 0022;Londrina;PR;Média Empresa;14/02/2026
+23;Cliente 0023;Santos;SP;Pequena Empresa;25/04/2023
+24;Cliente 0024;São Paulo;SP;Pequena Empresa;01/04/2025
+25;Cliente 0025;Rio de Janeiro;RJ;Pessoa Física;07/03/2026
+26;Cliente 0026;Salvador;BA;Média Empresa;19/10/2025
+27;Cliente 0027;Londrina;PR;Pessoa Física;26/06/2024
+28;Cliente 0028;Belo Horizonte;MG;Média Empresa;23/02/2026
+29;Cliente 0029;Caxias do Sul;RS;Média Empresa;12/04/2026
+30;Cliente 0030;;PR;Pequena Empresa;25/03/2024
+31;Cliente 0031;;MG;Pessoa Física;07/04/2023
+32;Cliente 0032;Goiânia;GO;Média Empresa;24/11/2023
+33;Cliente 0033;;PR;Pequena Empresa;20/02/2025
+34;Cliente 0034;Olinda;PE;Média Empresa;29/05/2024
+35;Cliente 0035;Porto Alegre;RS;Média Empresa;23/08/2023
+36;Cliente 0036;Caxias do Sul;RS;Média Empresa;27/11/2024
+37;Cliente 0037;Anápolis;GO;Pequena Empresa;20/11/2023
+38;Cliente 0038;Florianópolis;SC;Média Empresa;23/06/2024
+39;Cliente 0039;Porto Alegre;RS;Média Empresa;06/08/2023
+40;Cliente 0040;Rio de Janeiro;RJ;Pessoa Física;04/02/2025
+41;Cliente 0041;Belo Horizonte;MG;Média Empresa;25/10/2024
+42;Cliente 0042;Florianópolis;SC;Pessoa Física;13/01/2025
+43;Cliente 0043;Rio de Janeiro;RJ;Pessoa Física;08/05/2024
+44;Cliente 0044;Recife;PE;Pessoa Física;22/09/2025
+45;Cliente 0045;Aparecida de Goiânia;GO;Pessoa Física;20/09/2023
+46;Cliente 0046;Florianópolis;SC;Pequena Empresa;16/12/2025
+47;Cliente 0047;Olinda;PE;Pessoa Física;09/01/2026
+48;Cliente 0048;Santos;SP;Pequena Empresa;28/03/2025
+49;Cliente 0049;Feira de Santana;BA;Média Empresa;13/07/2025
+50;Cliente 0050;Goiânia;GO;Pessoa Física;12/05/2023
+51;Cliente 0051;Salvador;BA;Média Empresa;08/02/2026
+52;Cliente 0052;Santos;SP;Pessoa Física;15/01/2023
+53;Cliente 0053;Aparecida de Goiânia;GO;Média Empresa;01/05/2023
+54;Cliente 0054;São Paulo;SP;Pessoa Física;07/11/2024
+55;Cliente 0055;Aparecida de Goiânia;GO;Pessoa Física;24/07/2024
+56;Cliente 0056;Florianópolis;SC;Média Empresa;28/09/2023
+57;Cliente 0057;Olinda;PE;Pessoa Física;26/08/2025
+58;Cliente 0058;Curitiba;PR;Pessoa Física;18/07/2023
+59;Cliente 0059;Londrina;PR;Pequena Empresa;21/04/2025
+60;Cliente 0060;Florianópolis;SC;Média Empresa;21/07/2023
+61;Cliente 0061;Ceilândia;DF;Média Empresa;25/11/2024
+62;Cliente 0062;Goiânia;GO;Pessoa Física;25/01/2024
+63;Cliente 0063;Caxias do Sul;RS;Pessoa Física;14/05/2025
+64;Cliente 0064;Uberlândia;MG; pf ;26/05/2024
+65;Cliente 0065;Anápolis;GO;Média Empresa;20/07/2023
+66;Cliente 0066;Brasília;DF;Pessoa Física;29/04/2024
+67;Cliente 0067;Uberlândia;MG;Pequena Empresa;12/09/2025
+68;Cliente 0068;Campinas;SP;Pessoa Física;04/12/2023
+69;Cliente 0069;Curitiba;PR;Pequena Empresa;27/06/2024
+70;Cliente 0070;Joinville;SC;Pequena Empresa;12/02/2026
+71;Cliente 0071;;SC;Pessoa Física;30/08/2024
+72;Cliente 0072;São Paulo;SP;Média Empresa;15/01/2026
+73;Cliente 0073;Taguatinga;DF;Pessoa Física;13/04/2023
+74;Cliente 0074;Olinda;PE;Média Empresa;23/12/2025
+75;Cliente 0075;Belo Horizonte;MG;Média Empresa;14/06/2023
+76;Cliente 0076;Belo Horizonte;MG;Média Empresa;20/05/2023
+77;Cliente 0077;Campinas;SP;Pessoa Física;12/03/2026
+78;Cliente 0078;Santos;SP;Média Empresa;23/03/2023
+79;Cliente 0079;Recife;PE;Pequena Empresa;10/04/2026
+80;Cliente 0080;Olinda;PE;Pequena Empresa;23/02/2024
+81;Cliente 0081;Salvador;BA;Pequena Empresa;21/03/2025
+82;Cliente 0082;Uberlândia;MG;Pequena Empresa;09/10/2024
+83;Cliente 0083;Goiânia;GO;Pequena Empresa;26/06/2026
+84;Cliente 0084;Recife;PE;Pessoa Física;06/01/2026
+85;Cliente 0085;Santos;SP;Pequena Empresa;29/09/2023
+86;Cliente 0086;Salvador;BA;Pessoa Física;26/01/2025
+87;Cliente 0087;Rio de Janeiro;RJ;Pequena Empresa;17/01/2026
+88;Cliente 0088;Rio de Janeiro;RJ;Média Empresa;09/02/2026
+89;Cliente 0089;Rio de Janeiro;RJ;Pessoa Física;25/06/2024
+90;Cliente 0090;Goiânia;GO;Média Empresa;07/02/2026
+91;Cliente 0091;Uberlândia;MG;Pequena Empresa;23/05/2026
+92;Cliente 0092;Santos;SP;Pequena Empresa;21/02/2024
+93;Cliente 0093;Niterói;RJ;Pequena Empresa;15/04/2023
+94;Cliente 0094;Aparecida de Goiânia;GO;Pequena Empresa;20/07/2024
+95;Cliente 0095;Brasília;DF;Pequena Empresa;25/09/2023
+96;Cliente 0096;Rio de Janeiro;RJ;Média Empresa;23/06/2025
+97;Cliente 0097;Caxias do Sul;RS;Média Empresa;20/01/2023
+98;Cliente 0098;Goiânia;GO;Média Empresa;02/11/2023
+99;Cliente 0099;Porto Alegre;RS;Pequena Empresa;07/04/2026
+100;Cliente 0100;Porto Alegre;RS;Pequena Empresa;19/09/2023
+101;Cliente 0101;Taguatinga;DF;Pequena Empresa;23/03/2023
+102;Cliente 0102;Salvador;BA;Média Empresa;26/05/2024
+103;Cliente 0103;Anápolis;GO;Média Empresa;12/04/2025
+104;Cliente 0104;Recife;PE;Pessoa Física;29/11/2023
+105;Cliente 0105;Uberlândia;MG;Pessoa Física;03/01/2024
+106;Cliente 0106;Feira de Santana;BA;Média Empresa;23/05/2024
+107;Cliente 0107;Rio de Janeiro;RJ;Média Empresa;10/08/2023
+108;Cliente 0108;Curitiba;PR;Pequena Empresa;31/03/2024
+109;Cliente 0109;Campinas;SP;Pequena Empresa;17/09/2024
+110;Cliente 0110;São Paulo;SP;Pessoa Física;31/01/2024
+111;Cliente 0111;Londrina;PR;Pequena Empresa;23/05/2023
+112;Cliente 0112;Niterói;RJ;Média Empresa;09/11/2025
+113;Cliente 0113;Londrina;PR;Pessoa Física;25/08/2023
+114;Cliente 0114;Rio de Janeiro;RJ;Média Empresa;27/06/2024
+115;Cliente 0115;Brasília;DF;Média Empresa;08/06/2025
+116;Cliente 0116;Feira de Santana;BA;Pequena Empresa;26/05/2026
+117;Cliente 0117;Porto Alegre;RS;Pequena Empresa;26/03/2026
+118;Cliente 0118;Campinas;SP;Pessoa Física;12/06/2025
+119;Cliente 0119;Gama;DF;Pequena Empresa;02/06/2025
+120;Cliente 0120;Aparecida de Goiânia;GO;Pequena Empresa;30/06/2026
+121;Cliente 0121;Salvador;BA;Média Empresa;07/09/2024
+122;Cliente 0122;Caxias do Sul;RS;Média Empresa;16/04/2025
+123;Cliente 0123;Feira de Santana;BA;Média Empresa;28/08/2024
+124;Cliente 0124;Porto Alegre;RS;Pessoa Física;11/05/2025
+125;Cliente 0125;Curitiba;PR;Média Empresa;11/03/2026
+126;Cliente 0126;Niterói;RJ;Média Empresa;01/01/2023
+127;Cliente 0127;Niterói;RJ;Pessoa Física;30/05/2025
+128;Cliente 0128;Olinda;PE;Pequena Empresa;23/06/2025
+129;Cliente 0129;Florianópolis;SC; pf ;27/08/2025
+130;Cliente 0130;Belo Horizonte;MG;Pequena Empresa;21/11/2025
+131;Cliente 0131;Olinda;PE;Pessoa Física;26/04/2024
+132;Cliente 0132;Rio de Janeiro;RJ;Pessoa Física;29/10/2023
+133;Cliente 0133;Brasília;DF;Pessoa Física;31/08/2025
+134;Cliente 0134;Recife;PE;Pequena Empresa;28/04/2025
+135;Cliente 0135;Recife;PE;Média Empresa;25/02/2025
+136;Cliente 0136;Joinville;SC;Pessoa Física;30/10/2023
+137;Cliente 0137;Brasília;DF;Pequena Empresa;24/03/2024
+138;Cliente 0138;Uberlândia;MG;Pessoa Física;15/02/2026
+139;Cliente 0139;São Paulo;SP;Pequena Empresa;01/10/2023
+140;Cliente 0140;Joinville;SC;Pequena Empresa;08/06/2026
+141;Cliente 0141;Caxias do Sul;RS;Média Empresa;02/07/2025
+142;Cliente 0142;Uberlândia;MG;Pequena Empresa;14/06/2024
+143;Cliente 0143;Santos;SP;Pequena Empresa;03/12/2025
+144;Cliente 0144;Florianópolis;SC;Pequena Empresa;19/06/2025
+145;Cliente 0145;Aparecida de Goiânia;GO;Pequena Empresa;25/04/2024
+146;Cliente 0146;Niterói;RJ;Pequena Empresa;11/01/2026
+147;Cliente 0147;Goiânia;GO;Pessoa Física;18/04/2024
+148;Cliente 0148;Curitiba;PR;Média Empresa;14/03/2024
+149;Cliente 0149;Anápolis;GO;Pequena Empresa;08/11/2024
+150;Cliente 0150;;RS;Pequena Empresa;08/05/2023
+151;Cliente 0151;;SP;Pequena Empresa;11/04/2026
+152;Cliente 0152;Ceilândia;DF;Pequena Empresa;13/01/2023
+153;Cliente 0153;Feira de Santana;BA;Pequena Empresa;08/05/2025
+154;Cliente 0154;Porto Alegre;RS;Pequena Empresa;25/03/2024
+155;Cliente 0155;Niterói;RJ; pf ;01/03/2023
+156;Cliente 0156;Londrina;PR;Média Empresa;08/04/2025
+157;Cliente 0157;Uberlândia;MG;Pessoa Física;28/06/2026
+158;Cliente 0158;Porto Alegre;RS;Pequena Empresa;27/04/2026
+159;Cliente 0159;Recife;PE;Pessoa Física;27/05/2025
+160;Cliente 0160;Uberlândia;MG;Pessoa Física;13/04/2023
+161;Cliente 0161;Niterói;RJ;Pequena Empresa;09/03/2024
+162;Cliente 0162;Joinville;SC;Pequena Empresa;15/02/2025
+163;Cliente 0163;Niterói;RJ;Pequena Empresa;17/06/2023
+164;Cliente 0164;Florianópolis;SC;Média Empresa;09/01/2026
+165;Cliente 0165;Taguatinga;DF;Pessoa Física;21/05/2023
+166;Cliente 0166;Brasília;DF;Pessoa Física;13/02/2024
+167;Cliente 0167;Gama;DF;Pessoa Física;16/09/2023
+168;Cliente 0168;Florianópolis;SC;Média Empresa;22/03/2024
+169;Cliente 0169;Joinville;SC;Pequena Empresa;10/12/2023
+170;Cliente 0170;Recife;PE;Pessoa Física;29/09/2024
+171;Cliente 0171;Aparecida de Goiânia;GO;Pessoa Física;30/09/2024
+172;Cliente 0172;Olinda;PE;Pequena Empresa;11/02/2024
+173;Cliente 0173;Aparecida de Goiânia;GO; pf ;08/07/2026
+174;Cliente 0174;São Paulo;SP;Média Empresa;09/09/2024
+175;Cliente 0175;Recife;PE;Média Empresa;26/03/2023
+176;Cliente 0176;Feira de Santana;BA;Média Empresa;28/01/2025
+177;Cliente 0177;Aparecida de Goiânia;GO;Média Empresa;29/11/2024
+178;Cliente 0178;Ceilândia;DF;Pequena Empresa;05/08/2023
+179;Cliente 0179;Londrina;PR;Média Empresa;30/07/2025
+180;Cliente 0180;Uberlândia;MG;Pessoa Física;04/12/2025
+181;Cliente 0181;Niterói;RJ;Pequena Empresa;11/06/2025
+182;Cliente 0182;Olinda;PE;Pequena Empresa;17/05/2024
+183;Cliente 0183;Anápolis;GO;Pequena Empresa;14/05/2024
+184;Cliente 0184;Joinville;SC;Pequena Empresa;28/02/2023
+185;Cliente 0185;Joinville;SC;Pessoa Física;25/09/2025
+186;Cliente 0186;Campinas;SP;Pequena Empresa;28/11/2024
+187;Cliente 0187;Niterói;RJ;Média Empresa;21/01/2023
+188;Cliente 0188;Porto Alegre;RS;Pessoa Física;09/05/2024
+189;Cliente 0189;Londrina;PR;Média Empresa;07/05/2024
+190;Cliente 0190;Joinville;SC;Pequena Empresa;05/02/2023
+191;Cliente 0191;Anápolis;GO;Pessoa Física;08/04/2025
+192;Cliente 0192;Campinas;SP;Média Empresa;06/04/2026
+193;Cliente 0193;Feira de Santana;BA;Média Empresa;23/12/2025
+194;Cliente 0194;Feira de Santana;BA;Média Empresa;01/02/2026
+195;Cliente 0195;Feira de Santana;BA;Média Empresa;18/07/2025
+196;Cliente 0196;Niterói;RJ;Pequena Empresa;17/04/2024
+197;Cliente 0197;Aparecida de Goiânia;GO;Pessoa Física;08/10/2024
+198;Cliente 0198;Aparecida de Goiânia;GO;Média Empresa;15/01/2024
+199;Cliente 0199;São Paulo;SP;Média Empresa;18/09/2025
+200;Cliente 0200;Niterói;RJ;Pessoa Física;02/02/2024
+201;Cliente 0201;Rio de Janeiro;RJ;Pequena Empresa;03/01/2024
+202;Cliente 0202;Rio de Janeiro;RJ;Média Empresa;29/12/2025
+203;Cliente 0203;Uberlândia;MG;Pessoa Física;22/04/2023
+204;Cliente 0204;Caxias do Sul;RS;Média Empresa;16/09/2023
+205;Cliente 0205;Florianópolis;SC;Pessoa Física;21/03/2026
+206;Cliente 0206;Niterói;RJ;Pequena Empresa;21/06/2025
+207;Cliente 0207;Salvador;BA;Pessoa Física;01/06/2024
+208;Cliente 0208;Florianópolis;SC;Pessoa Física;31/03/2025
+209;Cliente 0209;Florianópolis;SC;Média Empresa;13/07/2026
+210;Cliente 0210;Gama;DF;Pessoa Física;26/02/2026
+211;Cliente 0211;Rio de Janeiro;RJ;Pessoa Física;31/08/2023
+212;Cliente 0212;Caxias do Sul;RS;Média Empresa;05/05/2026
+213;Cliente 0213;Recife;PE;Média Empresa;18/02/2025
+214;Cliente 0214;Joinville;SC;Pequena Empresa;20/04/2026
+215;Cliente 0215;Londrina;PR;Média Empresa;25/06/2026
+216;Cliente 0216;Brasília;DF;Pessoa Física;05/07/2026
+217;Cliente 0217;Campinas;SP;Média Empresa;16/06/2023
+218;Cliente 0218;Belo Horizonte;MG;Pessoa Física;04/02/2026
+219;Cliente 0219;Goiânia;GO;Pessoa Física;16/04/2025
+220;Cliente 0220;Joinville;SC;Pequena Empresa;08/03/2023
+221;Cliente 0221;Campinas;SP;Média Empresa;02/08/2024
+222;Cliente 0222;Florianópolis;SC;Média Empresa;23/04/2024
+223;Cliente 0223;Rio de Janeiro;RJ;Pequena Empresa;24/08/2023
+224;Cliente 0224;Porto Alegre;RS;Média Empresa;02/11/2023
+225;Cliente 0225;;RJ;Pessoa Física;03/05/2023
+226;Cliente 0226;Uberlândia;MG; pf ;11/03/2026
+227;Cliente 0227;Niterói;RJ;Pessoa Física;17/08/2025
+228;Cliente 0228;Niterói;RJ;Pequena Empresa;21/10/2025
+229;Cliente 0229;Caxias do Sul;RS;Pequena Empresa;14/06/2023
+230;Cliente 0230;Recife;PE;Pequena Empresa;22/10/2024
+231;Cliente 0231;Olinda;PE;Pessoa Física;07/07/2023
+232;Cliente 0232;Santos;SP;Média Empresa;17/04/2026
+233;Cliente 0233;Taguatinga;DF;Média Empresa;24/03/2023
+234;Cliente 0234;Uberlândia;MG;Média Empresa;24/06/2025
+235;Cliente 0235;Rio de Janeiro;RJ;Média Empresa;11/06/2025
+236;Cliente 0236;Florianópolis;SC;Pequena Empresa;13/12/2024
+237;Cliente 0237;Londrina;PR;Pequena Empresa;03/08/2023
+238;Cliente 0238;Uberlândia;MG;Pequena Empresa;11/10/2025
+239;Cliente 0239;Niterói;RJ;Média Empresa;17/03/2023
+240;Cliente 0240;Florianópolis;SC;Pequena Empresa;31/05/2024
+241;Cliente 0241;Salvador;BA;Pequena Empresa;19/11/2025
+242;Cliente 0242;Ceilândia;DF;Pequena Empresa;22/04/2023
+243;Cliente 0243;;SP;Pequena Empresa;29/06/2026
+244;Cliente 0244;Joinville;SC;Pessoa Física;21/02/2024
+245;Cliente 0245;Rio de Janeiro;RJ;Pequena Empresa;16/06/2025
+246;Cliente 0246;Florianópolis;SC;Pessoa Física;14/07/2026
+247;Cliente 0247;Recife;PE;Média Empresa;21/11/2023
+248;Cliente 0248;Rio de Janeiro;RJ;Média Empresa;15/04/2025
+249;Cliente 0249;Goiânia;GO;Pessoa Física;03/08/2025
+250;Cliente 0250;Aparecida de Goiânia;GO;Pessoa Física;17/10/2025
+251;Cliente 0251;Niterói;RJ;Pequena Empresa;15/09/2025
+252;Cliente 0252;Florianópolis;SC;Pequena Empresa;02/02/2026
+253;Cliente 0253;Uberlândia;MG;Pessoa Física;12/05/2026
+254;Cliente 0254;Porto Alegre;RS;Pessoa Física;19/07/2024
+255;Cliente 0255;Londrina;PR;Média Empresa;01/07/2024
+256;Cliente 0256;Taguatinga;DF;Média Empresa;03/09/2024
+257;Cliente 0257;Olinda;PE;Pessoa Física;03/07/2025
+258;Cliente 0258;Caxias do Sul;RS;Pequena Empresa;11/11/2024
+259;Cliente 0259;Caxias do Sul;RS;Pequena Empresa;21/10/2024
+260;Cliente 0260;Santos;SP;Pessoa Física;17/03/2026
+261;Cliente 0261;Curitiba;PR;Pequena Empresa;31/03/2023
+262;Cliente 0262;Feira de Santana;BA;Média Empresa;19/02/2025
+263;Cliente 0263;Curitiba;PR;Pequena Empresa;17/03/2023
+264;Cliente 0264;Uberlândia;MG;Pessoa Física;20/06/2025
+265;Cliente 0265;;GO;Pequena Empresa;01/02/2023
+266;Cliente 0266;Uberlândia;MG;Média Empresa;13/11/2023
+267;Cliente 0267;Anápolis;GO;Pequena Empresa;24/11/2024
+268;Cliente 0268;Olinda;PE;Média Empresa;14/06/2023
+269;Cliente 0269;Feira de Santana;BA;Pequena Empresa;07/07/2026
+270;Cliente 0270;Florianópolis;SC;Média Empresa;21/05/2023
+271;Cliente 0271;Santos;SP;Média Empresa;11/08/2024
+272;Cliente 0272;Santos;SP;Pessoa Física;07/06/2025
+273;Cliente 0273;Aparecida de Goiânia;GO; pf ;25/07/2023
+274;Cliente 0274;Florianópolis;SC;Média Empresa;05/09/2024
+275;Cliente 0275;Brasília;DF;Pequena Empresa;25/04/2023
+276;Cliente 0276;Niterói;RJ;Pequena Empresa;01/06/2025
+277;Cliente 0277;Belo Horizonte;MG;Média Empresa;23/04/2025
+278;Cliente 0278;Recife;PE;Pessoa Física;25/12/2023
+279;Cliente 0279;Aparecida de Goiânia;GO;Pequena Empresa;23/06/2026
+280;Cliente 0280;Campinas;SP;Média Empresa;21/10/2023
+281;Cliente 0281;Campinas;SP;Média Empresa;04/06/2024
+282;Cliente 0282;Joinville;SC;Média Empresa;20/01/2023
+283;Cliente 0283;Joinville;SC;Média Empresa;24/01/2026
+284;Cliente 0284;Belo Horizonte;MG;Pequena Empresa;08/12/2024
+285;Cliente 0285;Olinda;PE;Média Empresa;18/05/2025
+286;Cliente 0286;Niterói;RJ;Pequena Empresa;12/02/2024
+287;Cliente 0287;Londrina;PR;Pessoa Física;30/04/2024
+288;Cliente 0288;Londrina;PR;Média Empresa;28/08/2024
+289;Cliente 0289;Rio de Janeiro;RJ;Média Empresa;21/03/2025
+290;Cliente 0290;Rio de Janeiro;RJ;Média Empresa;11/04/2023
+291;Cliente 0291;Olinda;PE;Pequena Empresa;16/04/2024
+292;Cliente 0292;Olinda;PE;Pessoa Física;25/01/2024
+293;Cliente 0293;Olinda;PE;Média Empresa;08/10/2023
+294;Cliente 0294;Aparecida de Goiânia;GO;Média Empresa;22/03/2023
+295;Cliente 0295;Niterói;RJ;Pessoa Física;01/04/2026
+296;Cliente 0296;Salvador;BA;Pessoa Física;27/08/2024
+297;Cliente 0297;Feira de Santana;BA;Pessoa Física;16/02/2024
+298;Cliente 0298;;MG;Média Empresa;24/10/2025
+299;Cliente 0299;Rio de Janeiro;RJ;Pequena Empresa;13/09/2025
+300;Cliente 0300;Niterói;RJ;Pessoa Física;17/08/2025
+301;Cliente 0301;Goiânia;GO;Pessoa Física;24/03/2025
+302;Cliente 0302;Caxias do Sul;RS;Pessoa Física;19/03/2025
+303;Cliente 0303;Taguatinga;DF;Média Empresa;11/09/2023
+304;Cliente 0304;Joinville;SC;Média Empresa;20/06/2024
+305;Cliente 0305;Olinda;PE;Média Empresa;30/01/2025
+306;Cliente 0306;Aparecida de Goiânia;GO;Pessoa Física;23/08/2025
+307;Cliente 0307;Taguatinga;DF;Média Empresa;29/03/2024
+308;Cliente 0308;Aparecida de Goiânia;GO;Pequena Empresa;10/09/2024
+309;Cliente 0309;Curitiba;PR;Pessoa Física;03/04/2023
+310;Cliente 0310;Taguatinga;DF;Pequena Empresa;26/08/2023
+311;Cliente 0311;Goiânia;GO;Média Empresa;05/10/2023
+312;Cliente 0312;Londrina;PR;Pequena Empresa;11/01/2026
+313;Cliente 0313;Curitiba;PR;Pequena Empresa;22/07/2023
+314;Cliente 0314;Joinville;SC;Pequena Empresa;09/03/2023
+315;Cliente 0315;Salvador;BA;Pequena Empresa;29/06/2025
+316;Cliente 0316;Campinas;SP;Pessoa Física;22/01/2025
+317;Cliente 0317;Caxias do Sul;RS;Pessoa Física;26/03/2025
+318;Cliente 0318;Rio de Janeiro;RJ;Pessoa Física;20/07/2025
+319;Cliente 0319;Aparecida de Goiânia;GO;Pessoa Física;07/05/2026
+320;Cliente 0320;Brasília;DF;Pequena Empresa;13/05/2024
+321;Cliente 0321;Belo Horizonte;MG;Pessoa Física;09/02/2026
+322;Cliente 0322;Santos;SP;Pessoa Física;22/04/2024
+323;Cliente 0323;Salvador;BA; pf ;06/01/2023
+324;Cliente 0324;Rio de Janeiro;RJ;Pessoa Física;11/01/2026
+325;Cliente 0325;Rio de Janeiro;RJ;Pessoa Física;22/02/2023
+326;Cliente 0326;Belo Horizonte;MG;Pequena Empresa;02/05/2024
+327;Cliente 0327;Olinda;PE;Pessoa Física;23/12/2023
+328;Cliente 0328;Rio de Janeiro;RJ;Pessoa Física;12/05/2025
+329;Cliente 0329;Porto Alegre;RS;Média Empresa;11/05/2023
+330;Cliente 0330;Joinville;SC;Pequena Empresa;17/11/2025
+331;Cliente 0331;Recife;PE;Pequena Empresa;28/10/2025
+332;Cliente 0332;Santos;SP;Pessoa Física;03/12/2025
+333;Cliente 0333;Niterói;RJ;Média Empresa;05/03/2023
+334;Cliente 0334;Ceilândia;DF;Pequena Empresa;23/05/2025
+335;Cliente 0335;Anápolis;GO;Média Empresa;27/06/2025
+336;Cliente 0336;Goiânia;GO;Pequena Empresa;30/05/2026
+337;Cliente 0337;Belo Horizonte;MG;Pessoa Física;17/07/2024
+338;Cliente 0338;Olinda;PE;Pequena Empresa;08/05/2026
+339;Cliente 0339;Caxias do Sul;RS;Pequena Empresa;01/11/2025
+340;Cliente 0340;Olinda;PE;Pessoa Física;23/08/2023
+341;Cliente 0341;Porto Alegre;RS;Pequena Empresa;13/07/2025
+342;Cliente 0342;Campinas;SP;Pequena Empresa;17/07/2025
+343;Cliente 0343;Londrina;PR;Média Empresa;14/07/2023
+344;Cliente 0344;Feira de Santana;BA;Pequena Empresa;06/06/2024
+345;Cliente 0345;Salvador;BA;Média Empresa;29/08/2025
+346;Cliente 0346;Goiânia;GO;Pessoa Física;10/07/2023
+347;Cliente 0347;Curitiba;PR;Média Empresa;02/02/2025
+348;Cliente 0348;Belo Horizonte;MG;Média Empresa;24/02/2026
+349;Cliente 0349;Caxias do Sul;RS;Média Empresa;08/09/2023
+350;Cliente 0350;Londrina;PR;Média Empresa;16/05/2025
