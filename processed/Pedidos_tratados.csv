@@ -1,0 +1,2201 @@
+﻿pedido_id;data_pedido;cliente_id;vendedor_id;canal;status;forma_pagamento
+10002;29/11/2025;291;5;Loja Física;Cancelado;PIX
+10003;13/05/2026;311;4;Televendas;Concluído;Cartão de crédito
+10004;26/02/2025;4;2;Marketplace;Em separação;PIX
+10005;24/08/2025;257;5;Marketplace;Concluído;Cartão de crédito
+10006;29/11/2025;88;5;Televendas;Cancelado;Boleto
+10007;23/03/2026;302;4;Loja Física;Concluído;Boleto
+10008;26/12/2025;331;2;E-commerce;Concluído;Boleto
+10009;21/05/2026;238;5;Televendas;Concluído;Boleto
+10010;17/03/2025;159;4;Televendas;Concluído;Boleto
+10011;12/02/2025;231;5;E-commerce;Concluído;Cartão de débito
+10012;10/02/2025;127;6;Televendas;Devolvido;PIX
+10013;09/12/2025;34;3;Loja Física;Concluído;Cartão de débito
+10014;25/12/2025;159;6;Televendas;Concluído;Cartão de crédito
+10015;10/03/2026;261;3;Loja Física;Concluído;PIX
+10016;08/06/2025;40;3;Loja Física;Concluído;Cartão de crédito
+10017;25/03/2026;23;4;Marketplace;Concluído;PIX
+10018;28/03/2026;237;3;Televendas;Concluído;Cartão de débito
+10019;16/01/2026;284;1;Loja Física;Concluído;PIX
+10020;01/03/2026;28;4;Marketplace;Concluído;Cartão de crédito
+10021;23/05/2025;241;4;Loja Física;Em separação;Cartão de crédito
+10022;18/02/2025;123;4;Televendas;Concluído;Cartão de débito
+10023;28/05/2025;150;4;Loja Física;Concluído;PIX
+10024;14/02/2025;326;4;Marketplace;Concluído;Cartão de crédito
+10025;14/07/2026;174;6;E-commerce;Cancelado;Cartão de débito
+10026;12/02/2026;279;4;Marketplace;Concluído;PIX
+10027;27/03/2026;198;3;E-commerce;Concluído;Cartão de débito
+10028;16/04/2025;41;3;Marketplace;Concluído;Cartão de débito
+10029;09/10/2025;328;1;Loja Física;Concluído;Cartão de débito
+10030;05/02/2025;65;1;E-commerce;Concluído;Boleto
+10031;11/08/2026;71;5;Marketplace;Concluído;Boleto
+10032;01/05/2025;135;3;Televendas;Concluído;Boleto
+10033;08/03/2025;282;5;Marketplace;Em separação;PIX
+10034;21/05/2026;14;3;Marketplace;Concluído;PIX
+10035;06/05/2026;270;4;Televendas;Cancelado;Cartão de crédito
+10036;12/05/2025;283;6;E-commerce;Concluído;PIX
+10037;18/10/2025;41;3;E-commerce;Concluído;Boleto
+10038;18/08/2026;79;2;Marketplace;Cancelado;Cartão de crédito
+10039;14/08/2026;136;6;E-commerce;Concluído;Cartão de débito
+10040;24/10/2025;329;3;Televendas;Concluído;Cartão de débito
+10041;28/05/2025;161;6;Marketplace;Concluído;Boleto
+10042;25/10/2025;197;5;Televendas;Concluído;PIX
+10043;25/05/2026;12;1;Televendas;Concluído;PIX
+10044;27/04/2026;147;5;Loja Física;Cancelado;Cartão de débito
+10045;07/08/2026;288;2;Marketplace;Concluído;Cartão de crédito
+10046;26/07/2026;188;2;E-commerce;Concluído;Cartão de débito
+10047;08/12/2025;243;5;Televendas;Concluído;PIX
+10048;30/06/2026;251;6;Marketplace;Concluído;Cartão de crédito
+10049;16/08/2026;296;2;Loja Física;Concluído;PIX
+10050;28/07/2025;211;5;Televendas;Cancelado;Cartão de crédito
+10051;27/06/2025;236;5;Marketplace;Concluído;Boleto
+10052;28/07/2026;141;3;Loja Física;Concluído;Cartão de débito
+10053;26/07/2025;276;3;Marketplace;Concluído;PIX
+10054;13/04/2025;212;3;Televendas;Concluído;PIX
+10055;21/02/2026;335;4;Televendas;Concluído;Boleto
+10056;04/03/2026;91;1;Televendas;Concluído;PIX
+10057;11/07/2026;269;4;E-commerce;Cancelado;Cartão de débito
+10058;12/12/2025;152;5;E-commerce;Concluído;Cartão de débito
+10059;03/04/2026;137;3;Marketplace;Concluído;Cartão de crédito
+10060;15/11/2025;61;6;Marketplace;Concluído;PIX
+10061;17/07/2026;242;5;E-commerce;Concluído;Cartão de crédito
+10062;29/03/2026;60;6;E-commerce;Concluído;Cartão de débito
+10063;10/04/2026;68;5;Televendas;Concluído;Cartão de crédito
+10064;09/07/2026;31;1;Televendas;Concluído;Cartão de débito
+10065;05/04/2026;194;4;Loja Física;Concluído;PIX
+10066;02/11/2025;238;6;Televendas;Concluído;PIX
+10067;26/04/2025;17;6;Televendas;Concluído;Cartão de crédito
+10068;19/02/2025;126;6;Loja Física;Concluído;PIX
+10069;13/08/2026;164;5;Marketplace;Concluído;PIX
+10070;29/06/2025;321;6;Televendas;Concluído;Cartão de crédito
+10071;30/04/2026;124;2;Marketplace;Cancelado;PIX
+10072;05/04/2025;275;6;E-commerce;Concluído;Cartão de débito
+10073;27/07/2026;112;4;E-commerce;Cancelado;Boleto
+10074;29/07/2025;204;2;Marketplace;Concluído;Cartão de débito
+10075;28/07/2025;190;3;Televendas;Concluído;PIX
+10076;06/06/2025;101;3;E-commerce;Concluído;PIX
+10077;14/07/2026;251;2;Loja Física;Concluído;Cartão de crédito
+10078;25/08/2025;35;6;E-commerce;Concluído;Cartão de débito
+10079;19/07/2026;211;1;Loja Física;Concluído;Boleto
+10080;02/06/2025;124;2;Marketplace;Concluído;Boleto
+10081;22/01/2026;283;4;Loja Física;Concluído;PIX
+10082;06/12/2025;290;1;Loja Física;Concluído;Cartão de débito
+10083;17/01/2025;107;5;E-commerce;Concluído;Cartão de débito
+10084;04/08/2026;200;6;Marketplace;Concluído;PIX
+10085;24/02/2025;51;4;E-commerce;Cancelado;Boleto
+10086;25/01/2026;44;5;Marketplace;Concluído;Cartão de crédito
+10087;07/06/2025;200;3;Marketplace;Concluído;Cartão de crédito
+10088;09/06/2026;209;1;Loja Física;Concluído;Cartão de crédito
+10089;09/08/2026;267;2;Televendas;Concluído;Boleto
+10090;05/01/2026;129;2;Televendas;Concluído;PIX
+10091;01/09/2026;70;3;Marketplace;Concluído;PIX
+10092;09/01/2026;59;5;E-commerce;Concluído;PIX
+10093;25/03/2026;150;6;Loja Física;Concluído;Cartão de débito
+10094;20/08/2026;206;5;Televendas;Concluído;Boleto
+10095;30/12/2025;86;6;Loja Física;Concluído;Cartão de débito
+10096;13/08/2026;114;4;Marketplace;Concluído;PIX
+10097;26/05/2025;179;3;Marketplace;Concluído;PIX
+10098;22/04/2025;347;2;E-commerce;Concluído;PIX
+10099;19/03/2026;203;1;E-commerce;Concluído;Cartão de débito
+10100;14/04/2026;59;3;Televendas;Concluído;Boleto
+10101;28/03/2025;345;2;Marketplace;Concluído;Boleto
+10102;08/06/2026;199;4;E-commerce;Concluído;Cartão de débito
+10103;23/10/2025;72;2;Marketplace;Cancelado;Cartão de crédito
+10104;02/03/2026;228;4;E-commerce;Concluído;Cartão de crédito
+10105;03/08/2026;254;5;Loja Física;Concluído;Boleto
+10106;11/09/2025;153;1;Televendas;Concluído;Cartão de crédito
+10107;31/07/2025;106;1;Marketplace;Concluído;PIX
+10108;02/03/2025;142;6;E-commerce;Concluído;PIX
+10109;03/10/2025;322;4;Televendas;Concluído;Cartão de crédito
+10110;02/01/2026;33;5;Televendas;Concluído;Cartão de débito
+10111;03/08/2026;249;3;Loja Física;Concluído;Cartão de débito
+10112;28/03/2026;234;1;Televendas;Concluído;PIX
+10113;19/06/2025;27;4;Marketplace;Concluído;PIX
+10114;18/12/2025;62;4;E-commerce;Concluído;PIX
+10115;09/01/2025;313;6;E-commerce;Concluído;PIX
+10116;24/05/2025;64;5;Televendas;Concluído;Cartão de débito
+10117;28/01/2025;338;3;E-commerce;Concluído;PIX
+10118;05/01/2026;163;2;Televendas;Cancelado;Cartão de débito
+10119;03/03/2025;204;5;Marketplace;Concluído;Cartão de débito
+10120;04/07/2026;168;4;Loja Física;Concluído;Cartão de débito
+10121;26/02/2025;159;6;E-commerce;Concluído;PIX
+10122;20/06/2026;265;6;Marketplace;Concluído;PIX
+10123;14/08/2026;322;1;Televendas;Concluído;Boleto
+10124;12/01/2026;81;3;Loja Física;Em separação;Cartão de crédito
+10125;28/01/2026;77;2;Loja Física;Concluído;Cartão de débito
+10126;09/08/2026;191;1;Loja Física;Concluído;Cartão de crédito
+10127;06/09/2025;238;3;Televendas;Devolvido;PIX
+10128;10/01/2025;172;1;Televendas;Cancelado;Boleto
+10129;06/03/2026;252;1;E-commerce;Concluído;Cartão de crédito
+10130;27/02/2026;191;4;Loja Física;Concluído;PIX
+10131;01/12/2025;163;4;Marketplace;Concluído;PIX
+10132;21/02/2026;62;5;Marketplace;Devolvido;PIX
+10133;01/06/2025;47;6;E-commerce;Devolvido;Cartão de débito
+10134;01/02/2025;208;4;E-commerce;Concluído;Cartão de crédito
+10135;17/01/2026;323;6;Loja Física;Concluído;Boleto
+10136;31/03/2026;66;1;Marketplace;Concluído;Cartão de débito
+10137;09/02/2026;255;1;Televendas;Concluído;PIX
+10138;09/09/2025;332;3;Televendas;Concluído;Cartão de débito
+10139;06/03/2026;103;6;E-commerce;Concluído;Cartão de crédito
+10140;31/01/2025;144;1;Televendas;Concluído;PIX
+10141;27/02/2025;113;5;Televendas;Concluído;PIX
+10142;27/12/2025;291;5;E-commerce;Concluído;PIX
+10143;26/07/2025;67;3;E-commerce;Em separação;Boleto
+10144;26/05/2025;57;5;Marketplace;Devolvido;Boleto
+10145;01/01/2026;115;6;E-commerce;Concluído;Boleto
+10146;03/02/2025;94;5;Marketplace;Em separação;PIX
+10147;21/03/2025;122;3;Marketplace;Concluído;Cartão de crédito
+10148;02/01/2025;25;4;Televendas;Concluído;PIX
+10149;04/02/2025;151;1;Marketplace;Concluído;Cartão de crédito
+10150;14/06/2025;39;5;Loja Física;Concluído;Cartão de débito
+10151;21/03/2026;81;1;;Concluído;PIX
+10152;07/06/2025;28;3;Loja Física;Concluído;Boleto
+10153;29/09/2025;47;6;Televendas;Concluído;Cartão de débito
+10154;10/04/2025;44;6;Marketplace;Concluído;Cartão de débito
+10155;02/05/2026;294;2;Televendas;Concluído;Cartão de débito
+10156;09/08/2026;347;5;E-commerce;Concluído;Cartão de débito
+10157;22/03/2026;104;6;E-commerce;Cancelado;Boleto
+10158;25/08/2026;268;4;Loja Física;Concluído;PIX
+10159;20/10/2025;275;3;Televendas;Concluído;Cartão de débito
+10160;03/10/2025;191;1;Marketplace;Concluído;Boleto
+10161;30/03/2026;165;3;Televendas;Concluído;Cartão de crédito
+10162;27/02/2025;264;2;Loja Física;Concluído;Cartão de débito
+10163;01/03/2025;128;1;Televendas;Concluído;Boleto
+10164;01/02/2025;124;3;Televendas;Concluído;PIX
+10165;08/08/2025;114;6;E-commerce;Concluído;Boleto
+10166;09/10/2025;217;4;Marketplace;Concluído;PIX
+10167;17/10/2025;153;6;Loja Física;Concluído;Boleto
+10168;18/02/2026;339;3;E-commerce;Concluído;Cartão de débito
+10169;16/08/2025;274;6;Televendas;Em separação;Boleto
+10170;27/07/2026;94;6;Marketplace;Concluído;PIX
+10171;20/04/2026;61;4;Loja Física;Cancelado;Cartão de crédito
+10172;24/02/2026;292;4;E-commerce;Concluído;PIX
+10173;17/11/2025;325;1;Loja Física;Concluído;PIX
+10174;16/03/2026;207;4;Televendas;Concluído;Cartão de crédito
+10175;05/01/2025;321;6;E-commerce;Concluído;Boleto
+10176;12/04/2026;267;5;Marketplace;Concluído;PIX
+10177;15/05/2025;109;6;Loja Física;Concluído;PIX
+10178;20/01/2026;328;3;Loja Física;Concluído;Cartão de crédito
+10179;03/03/2026;228;4;Loja Física;Concluído;Cartão de débito
+10180;14/04/2025;340;5;Marketplace;Concluído;PIX
+10181;02/01/2026;210;3;E-commerce;Concluído;Cartão de débito
+10182;11/08/2026;343;4;E-commerce;Em separação;Cartão de crédito
+10183;31/10/2025;136;4;Loja Física;Concluído;PIX
+10184;17/11/2025;219;6;Loja Física;Concluído;Cartão de crédito
+10185;03/12/2025;184;4;Marketplace;Cancelado;Cartão de crédito
+10186;08/03/2026;333;2;Loja Física;Concluído;Cartão de crédito
+10187;25/03/2026;93;5;Televendas;Concluído;Cartão de crédito
+10188;25/09/2025;336;3;Loja Física;Concluído;PIX
+10189;30/01/2026;77;5;Loja Física;Concluído;PIX
+10190;29/08/2025;41;4;Televendas;Concluído;Cartão de débito
+10191;25/05/2026;335;1;Loja Física;Concluído;Cartão de crédito
+10192;08/11/2025;261;5;E-commerce;Concluído;Cartão de débito
+10193;08/01/2026;232;1;Loja Física;Concluído;PIX
+10194;26/10/2025;281;5;Marketplace;Concluído;Cartão de crédito
+10195;20/07/2025;97;1;Televendas;Concluído;PIX
+10196;18/05/2025;256;1;Loja Física;Concluído;Cartão de débito
+10197;29/01/2026;215;5;E-commerce;Concluído;Boleto
+10198;15/07/2026;161;6;E-commerce;Concluído;Boleto
+10199;30/07/2026;246;5;Televendas;Concluído;Boleto
+10200;05/03/2025;152;2;Loja Física;Concluído;Cartão de débito
+10201;30/07/2026;115;6;Televendas;Concluído;Boleto
+10202;17/11/2025;283;1;Loja Física;Concluído;PIX
+10203;18/03/2025;96;2;Loja Física;Concluído;Cartão de débito
+10204;10/02/2025;79;3;Loja Física;Concluído;Boleto
+10205;18/02/2026;48;3;E-commerce;Cancelado;Boleto
+10206;02/04/2026;124;6;E-commerce;Em separação;Boleto
+10207;17/07/2025;165;5;Loja Física;Em separação;PIX
+10208;07/08/2025;218;1;E-commerce;Concluído;Cartão de débito
+10209;06/12/2025;20;1;Loja Física;Concluído;Boleto
+10210;22/02/2026;199;4;Televendas;Concluído;Cartão de crédito
+10211;24/10/2025;155;5;Loja Física;Concluído;Cartão de débito
+10212;02/11/2025;347;6;Marketplace;Em separação;Cartão de crédito
+10213;29/03/2025;157;2;Marketplace;Concluído;PIX
+10214;04/08/2026;28;5;Televendas;Concluído;Cartão de crédito
+10215;29/08/2025;52;3;Loja Física;Em separação;Boleto
+10216;10/09/2025;114;6;Televendas;Concluído;Boleto
+10217;14/05/2026;283;1;E-commerce;Concluído;Cartão de crédito
+10218;04/06/2026;324;1;Televendas;Concluído;PIX
+10219;29/04/2026;335;2;Marketplace;Concluído;Boleto
+10220;02/09/2025;315;6;E-commerce;Concluído;PIX
+10221;28/08/2025;22;6;E-commerce;Concluído;Boleto
+10222;16/08/2026;279;5;E-commerce;Concluído;Cartão de débito
+10223;14/05/2026;247;5;Loja Física;Concluído;PIX
+10224;05/12/2025;59;4;Televendas;Concluído;PIX
+10225;04/07/2025;265;4;Loja Física;Cancelado;Boleto
+10226;09/05/2026;88;2;Televendas;Concluído;PIX
+10227;22/04/2025;9;2;Televendas;Cancelado;Cartão de crédito
+10228;31/05/2026;61;1;Televendas;Concluído;Cartão de crédito
+10229;18/09/2025;245;2;Loja Física;Concluído;Cartão de débito
+10230;30/07/2025;162;4;Marketplace;Concluído;Cartão de débito
+10231;20/07/2026;286;4;E-commerce;Concluído;Cartão de débito
+10232;15/06/2025;52;2;Televendas;Concluído;Cartão de crédito
+10233;22/03/2026;46;1;Marketplace;Concluído;Cartão de crédito
+10234;18/06/2026;147;6;Loja Física;Em separação;PIX
+10235;06/02/2025;185;2;Loja Física;Devolvido;Cartão de crédito
+10236;03/04/2025;282;3;Marketplace;Concluído;Boleto
+10237;29/06/2025;209;5;Loja Física;Concluído;Boleto
+10238;31/07/2026;248;2;Marketplace;Devolvido;Cartão de débito
+10239;13/06/2026;275;1;Marketplace;Concluído;Cartão de crédito
+10240;29/08/2025;124;3;E-commerce;Concluído;PIX
+10241;13/02/2025;247;3;Marketplace;Concluído;Boleto
+10242;30/05/2026;178;4;E-commerce;Concluído;Cartão de crédito
+10243;03/10/2025;242;5;Marketplace;Concluído;Cartão de débito
+10244;04/10/2025;121;5;Televendas;Cancelado;PIX
+10245;14/06/2026;274;6;Marketplace;Concluído;Boleto
+10246;03/05/2026;323;1;Televendas;Concluído;Boleto
+10247;23/07/2025;296;5;E-commerce;Devolvido;Boleto
+10248;29/05/2025;86;6;Marketplace;Concluído;Cartão de débito
+10249;18/11/2025;163;6;Marketplace;Concluído;Cartão de débito
+10250;09/05/2025;121;6;Marketplace;Em separação;Cartão de crédito
+10251;16/07/2026;28;1;Televendas;Concluído;Cartão de crédito
+10252;04/02/2026;159;2;E-commerce;Concluído;Cartão de débito
+10253;30/11/2025;244;4;Marketplace;Concluído;PIX
+10254;01/07/2026;159;3;Televendas;Concluído;Cartão de crédito
+10255;09/01/2025;252;4;Marketplace;Concluído;Cartão de débito
+10256;17/06/2025;331;4;Televendas;Concluído;Cartão de crédito
+10257;20/05/2025;149;1;Televendas;Concluído;Boleto
+10258;09/01/2025;120;1;E-commerce;Concluído;PIX
+10259;27/02/2025;137;4;Loja Física;Concluído;PIX
+10260;12/09/2025;198;4;E-commerce;Concluído;Cartão de crédito
+10261;30/04/2026;200;6;Marketplace;Em separação;PIX
+10262;08/05/2026;327;3;E-commerce;Concluído;Cartão de crédito
+10263;22/08/2026;62;4;E-commerce;Concluído;Cartão de crédito
+10264;07/06/2025;275;1;E-commerce;Concluído;Boleto
+10265;25/03/2026;287;3;Televendas;Concluído;PIX
+10266;06/04/2026;152;3;Marketplace;Concluído;Cartão de débito
+10267;06/03/2025;338;5;Televendas;Concluído;Cartão de débito
+10268;10/03/2025;23;2;E-commerce;Cancelado;PIX
+10269;08/08/2026;329;4;Televendas;Concluído;Boleto
+10270;14/03/2025;7;2;Televendas;Em separação;Cartão de crédito
+10271;08/11/2025;40;2;Loja Física;Concluído;PIX
+10272;02/01/2026;346;4;Televendas;Cancelado;PIX
+10273;30/03/2026;181;3;Marketplace;Cancelado;Cartão de débito
+10274;05/02/2025;146;5;Loja Física;Concluído;Boleto
+10275;19/11/2025;12;6;Marketplace;Em separação;PIX
+10276;22/05/2025;136;3;E-commerce;Concluído;Boleto
+10277;21/03/2025;167;4;E-commerce;Concluído;Cartão de crédito
+10278;03/03/2026;62;2;Loja Física;Concluído;Cartão de débito
+10279;07/07/2026;290;2;Marketplace;Concluído;PIX
+10280;01/06/2026;47;2;Televendas;Concluído;Cartão de débito
+10281;13/02/2026;135;1;Televendas;Concluído;PIX
+10282;29/07/2026;316;6;E-commerce;Concluído;Boleto
+10283;25/01/2025;157;2;Marketplace;Concluído;Cartão de débito
+10284;29/03/2025;58;6;Loja Física;Concluído;PIX
+10285;05/08/2025;105;5;Marketplace;Concluído;PIX
+10286;24/06/2026;23;3;E-commerce;Concluído;PIX
+10287;27/10/2025;333;4;E-commerce;Devolvido;Cartão de crédito
+10288;23/01/2025;21;2;Marketplace;Concluído;Cartão de débito
+10289;29/05/2026;142;1;Marketplace;Cancelado;Cartão de crédito
+10290;21/08/2025;214;2;E-commerce;Concluído;Boleto
+10291;21/06/2026;70;4;E-commerce;Concluído;PIX
+10292;26/02/2026;156;4;Marketplace;Concluído;PIX
+10293;01/10/2025;311;5;E-commerce;Concluído;PIX
+10294;18/05/2025;258;5;Televendas;Concluído;Boleto
+10295;23/02/2026;8;3;Televendas;Concluído;PIX
+10296;14/04/2026;127;4;Televendas;Concluído;Cartão de débito
+10297;13/04/2026;22;2;Televendas;Devolvido;Cartão de crédito
+10298;25/02/2025;265;2;Televendas;Cancelado;Cartão de débito
+10299;14/07/2026;70;4;Televendas;Concluído;Cartão de crédito
+10300;14/09/2025;166;6;E-commerce;Concluído;Cartão de crédito
+10301;07/01/2026;44;5;Televendas;Concluído;PIX
+10302;06/03/2026;158;3;Televendas;Concluído;PIX
+10303;17/09/2025;7;4;Televendas;Cancelado;Cartão de crédito
+10304;25/07/2026;107;1;E-commerce;Concluído;Boleto
+10305;15/08/2026;309;3;Marketplace;Em separação;Cartão de crédito
+10306;19/10/2025;313;6;E-commerce;Devolvido;Boleto
+10307;13/01/2026;195;1;Televendas;Cancelado;Cartão de crédito
+10308;01/03/2025;56;5;Loja Física;Concluído;Boleto
+10309;25/05/2026;253;2;E-commerce;Concluído;PIX
+10310;01/05/2025;107;5;Televendas;Concluído;Boleto
+10311;12/11/2025;154;5;Marketplace;Concluído;Cartão de crédito
+10312;06/05/2026;243;1;E-commerce;Concluído;Cartão de débito
+10313;23/07/2026;275;1;E-commerce;Concluído;Boleto
+10314;03/02/2026;96;5;Loja Física;Cancelado;Boleto
+10315;10/08/2025;269;3;E-commerce;Concluído;Cartão de crédito
+10316;14/07/2025;175;4;Marketplace;Concluído;PIX
+10317;30/07/2025;19;4;Televendas;Concluído;Cartão de crédito
+10318;01/09/2026;45;3;Televendas;Cancelado;Cartão de crédito
+10319;28/03/2026;344;1;Marketplace;Concluído;Boleto
+10320;11/06/2026;53;2;Marketplace;Concluído;Boleto
+10321;08/07/2026;228;1;E-commerce;Concluído;Cartão de crédito
+10322;06/02/2026;92;6;Televendas;Concluído;Boleto
+10323;25/04/2026;50;4;Marketplace;Concluído;Cartão de débito
+10324;10/04/2026;250;1;Loja Física;Concluído;Boleto
+10325;14/03/2025;155;5;Televendas;Concluído;Cartão de débito
+10326;02/08/2025;303;4;Televendas;Concluído;Boleto
+10327;30/08/2026;306;4;Marketplace;Concluído;Cartão de débito
+10328;24/01/2026;168;4;Loja Física;Concluído;PIX
+10329;29/06/2026;150;4;Televendas;Concluído;Boleto
+10330;09/01/2025;314;5;Televendas;Cancelado;Boleto
+10331;01/01/2025;287;3;Loja Física;Cancelado;Cartão de crédito
+10332;26/01/2026;223;5;E-commerce;Concluído;Cartão de débito
+10333;09/05/2025;69;1;Loja Física;Concluído;PIX
+10334;04/07/2025;233;5;Televendas;Concluído;Cartão de débito
+10335;11/01/2026;18;1;Televendas;Concluído;Cartão de crédito
+10336;21/03/2025;325;5;Marketplace;Concluído;Boleto
+10337;11/08/2026;170;4;Marketplace;Devolvido;Boleto
+10338;16/08/2026;87;5;Loja Física;Concluído;Boleto
+10339;02/06/2026;40;3;Marketplace;Concluído;Boleto
+10340;29/06/2025;134;6;E-commerce;Concluído;Cartão de crédito
+10341;21/06/2025;108;5;Marketplace;Concluído;Boleto
+10342;03/05/2026;155;4;E-commerce;Concluído;Cartão de débito
+10343;29/12/2025;222;5;Marketplace;Concluído;Boleto
+10344;18/04/2026;346;6;E-commerce;Concluído;PIX
+10345;02/04/2026;180;2;Marketplace;Concluído;Cartão de crédito
+10346;11/08/2025;307;6;Loja Física;Concluído;Cartão de crédito
+10347;03/08/2026;95;1;E-commerce;Concluído;Cartão de débito
+10348;14/03/2026;342;3;Marketplace;Concluído;Cartão de crédito
+10349;25/07/2025;313;4;E-commerce;Concluído;Cartão de crédito
+10350;23/09/2025;53;1;Loja Física;Concluído;Boleto
+10351;04/01/2025;264;6;Televendas;Concluído;Cartão de débito
+10352;09/05/2026;63;5;Marketplace;Concluído;Boleto
+10353;29/01/2026;339;2;Marketplace;Concluído;Cartão de crédito
+10354;31/08/2026;123;4;Televendas;Concluído;Boleto
+10355;20/06/2026;235;6;E-commerce;Concluído;PIX
+10356;20/01/2025;242;5;Loja Física;Concluído;PIX
+10357;10/04/2025;234;5;E-commerce;Cancelado;Cartão de crédito
+10358;14/08/2025;33;2;Televendas;Concluído;Cartão de débito
+10359;06/03/2025;62;3;E-commerce;Concluído;PIX
+10360;17/01/2025;250;1;Loja Física;Concluído;Cartão de crédito
+10361;02/09/2025;90;5;Loja Física;Concluído;Cartão de débito
+10362;26/07/2026;121;2;Loja Física;Devolvido;Cartão de crédito
+10363;01/05/2026;255;2;E-commerce;Concluído;Cartão de crédito
+10364;15/09/2025;172;5;;Concluído;Cartão de crédito
+10365;01/04/2026;304;5;Marketplace;Concluído;Boleto
+10366;20/01/2026;113;1;Televendas;Concluído;Cartão de crédito
+10367;10/12/2025;66;1;Loja Física;Concluído;Cartão de crédito
+10368;21/07/2026;118;1;Televendas;Cancelado;Cartão de débito
+10369;10/09/2025;127;3;Televendas;Concluído;PIX
+10370;27/04/2026;259;1;Televendas;Concluído;Cartão de débito
+10371;26/07/2026;7;6;Televendas;Em separação;PIX
+10372;21/08/2026;13;4;Televendas;Concluído;Cartão de débito
+10373;30/01/2026;171;5;Loja Física;Concluído;Boleto
+10374;08/01/2026;27;1;Televendas;Concluído;Cartão de crédito
+10375;07/07/2026;59;6;Televendas;Concluído;PIX
+10376;25/02/2025;33;3;Marketplace;Concluído;Cartão de crédito
+10377;23/10/2025;40;1;E-commerce;Concluído;PIX
+10378;22/01/2025;150;2;Loja Física;Concluído;PIX
+10379;14/04/2026;156;5;E-commerce;Em separação;Boleto
+10380;01/06/2025;181;3;Televendas;Em separação;PIX
+10381;10/05/2025;226;3;Marketplace;Concluído;Cartão de crédito
+10382;19/02/2026;256;2;Televendas;Em separação;PIX
+10383;30/10/2025;243;3;E-commerce;Concluído;Cartão de débito
+10384;14/08/2025;229;3;Loja Física;Concluído;PIX
+10385;31/03/2025;263;4;E-commerce;Concluído;Cartão de crédito
+10386;02/04/2026;288;1;E-commerce;Concluído;Cartão de débito
+10387;02/05/2026;269;3;Loja Física;Em separação;Cartão de débito
+10388;01/03/2026;90;5;Televendas;Concluído;PIX
+10389;23/08/2026;156;4;Televendas;Concluído;Cartão de crédito
+10390;22/10/2025;214;2;Televendas;Em separação;PIX
+10391;10/03/2025;307;6;Marketplace;Concluído;Cartão de débito
+10392;19/08/2026;30;2;Marketplace;Concluído;PIX
+10393;20/03/2025;264;2;E-commerce;Concluído;PIX
+10394;27/12/2025;74;1;E-commerce;Concluído;Boleto
+10395;29/06/2026;283;6;Loja Física;Concluído;Cartão de crédito
+10396;23/12/2025;160;6;Marketplace;Concluído;Cartão de débito
+10397;09/05/2025;108;2;Loja Física;Concluído;Cartão de crédito
+10398;13/02/2025;101;1;Loja Física;Concluído;Cartão de crédito
+10399;09/07/2025;344;3;Loja Física;Concluído;Boleto
+10400;15/01/2025;271;2;E-commerce;Devolvido;PIX
+10401;02/05/2026;188;6;E-commerce;Concluído;Cartão de crédito
+10402;26/04/2025;161;1;Televendas;Concluído;PIX
+10403;31/03/2026;116;5;Televendas;Concluído;Cartão de débito
+10404;19/05/2026;345;1;Televendas;Concluído;Cartão de crédito
+10405;28/08/2026;53;6;E-commerce;Concluído;PIX
+10406;19/08/2026;304;3;Televendas;Concluído;Cartão de débito
+10407;11/03/2025;256;6;Loja Física;Devolvido;Cartão de débito
+10408;26/07/2025;151;6;Televendas;Concluído;Boleto
+10409;30/03/2026;236;1;Loja Física;Concluído;Boleto
+10410;06/08/2026;346;4;Televendas;Concluído;PIX
+10411;22/01/2026;316;6;Marketplace;Concluído;Boleto
+10412;16/12/2025;195;1;Televendas;Concluído;Boleto
+10413;12/12/2025;87;1;Marketplace;Concluído;Cartão de débito
+10414;13/04/2025;346;2;Marketplace;Concluído;Boleto
+10415;03/07/2026;110;3;Marketplace;Concluído;Cartão de débito
+10416;07/10/2025;35;5;Televendas;Concluído;Boleto
+10417;20/03/2026;340;5;Marketplace;Concluído;Cartão de débito
+10418;27/05/2026;110;6;Televendas;Concluído;Cartão de débito
+10419;01/06/2025;124;2;Marketplace;Cancelado;Cartão de débito
+10420;30/08/2025;208;2;Loja Física;Concluído;Cartão de crédito
+10421;26/07/2025;82;3;E-commerce;Concluído;Boleto
+10422;18/11/2025;309;3;Loja Física;Em separação;Cartão de débito
+10423;18/08/2026;269;3;Televendas;Cancelado;PIX
+10424;04/02/2026;121;4;E-commerce;Concluído;PIX
+10425;19/01/2026;58;3;Televendas;Concluído;PIX
+10426;25/02/2025;344;2;Marketplace;Concluído;Boleto
+10427;01/11/2025;108;2;Televendas;Concluído;Cartão de débito
+10428;28/04/2026;212;3;Televendas;Cancelado;Cartão de crédito
+10429;01/12/2025;233;6;Loja Física;Concluído;PIX
+10430;25/02/2026;164;4;Televendas;Cancelado;PIX
+10431;08/08/2026;115;1;Loja Física;Em separação;PIX
+10432;22/06/2025;26;4;Televendas;Concluído;PIX
+10433;01/05/2025;8;6;Televendas;Concluído;Cartão de débito
+10434;09/08/2025;145;6;E-commerce;Concluído;Cartão de débito
+10435;14/01/2026;299;6;Televendas;Concluído;Cartão de débito
+10436;10/03/2026;306;3;Loja Física;Concluído;Cartão de crédito
+10437;29/12/2025;311;6;Loja Física;Concluído;Cartão de débito
+10438;14/12/2025;240;2;Loja Física;Concluído;Cartão de débito
+10439;05/01/2026;221;3;Marketplace;Concluído;Boleto
+10440;27/03/2026;28;2;E-commerce;Concluído;PIX
+10441;24/04/2026;224;1;Televendas;Concluído;Boleto
+10442;31/07/2026;340;5;E-commerce;Concluído;Cartão de crédito
+10443;27/01/2025;146;6;Loja Física;Concluído;Cartão de crédito
+10444;14/02/2025;336;5;Televendas;Concluído;PIX
+10445;14/03/2025;281;5;Televendas;Concluído;Boleto
+10446;16/06/2025;199;4;Marketplace;Concluído;PIX
+10447;14/11/2025;309;2;Marketplace;Concluído;Boleto
+10448;10/03/2026;47;4;Marketplace;Concluído;Cartão de débito
+10449;24/03/2026;41;4;Marketplace;Concluído;PIX
+10450;12/03/2026;212;1;Televendas;Concluído;Boleto
+10451;07/02/2026;24;1;Televendas;Cancelado;Boleto
+10452;05/08/2025;95;1;Marketplace;Cancelado;Cartão de crédito
+10453;05/01/2026;345;6;Televendas;Concluído;Cartão de crédito
+10454;28/01/2025;108;4;E-commerce;Concluído;Cartão de débito
+10455;30/04/2025;86;2;Televendas;Devolvido;Cartão de débito
+10456;29/10/2025;292;4;Loja Física;Concluído;Cartão de crédito
+10457;15/05/2026;119;6;Loja Física;Concluído;Cartão de débito
+10458;22/12/2025;230;6;Televendas;Concluído;Boleto
+10459;14/12/2025;309;6;Televendas;Concluído;Boleto
+10460;27/06/2025;103;2;Televendas;Concluído;Cartão de débito
+10461;02/02/2025;33;3;Televendas;Concluído;PIX
+10462;15/12/2025;182;1;Marketplace;Em separação;Cartão de crédito
+10463;19/04/2025;313;5;Loja Física;Cancelado;Cartão de crédito
+10464;06/01/2026;81;6;Marketplace;Concluído;Cartão de débito
+10465;22/05/2025;63;2;Televendas;Devolvido;Cartão de crédito
+10466;01/03/2026;185;6;E-commerce;Concluído;Cartão de débito
+10467;06/01/2026;16;4;E-commerce;Concluído;Cartão de crédito
+10468;21/03/2026;32;4;Loja Física;Concluído;PIX
+10469;16/02/2026;349;6;Marketplace;Concluído;Boleto
+10470;12/07/2026;320;5;Televendas;Concluído;Cartão de débito
+10471;10/05/2025;267;5;Marketplace;Concluído;Boleto
+10472;03/03/2025;191;3;Marketplace;Concluído;Cartão de crédito
+10473;25/12/2025;154;3;E-commerce;Concluído;PIX
+10474;05/01/2026;233;1;E-commerce;Concluído;Cartão de débito
+10475;03/05/2026;110;4;Loja Física;Concluído;Cartão de débito
+10476;12/05/2026;235;2;Loja Física;Concluído;Cartão de débito
+10477;11/02/2025;268;2;Loja Física;Concluído;Boleto
+10478;18/10/2025;111;2;Televendas;Concluído;Boleto
+10479;14/11/2025;290;4;Marketplace;Concluído;Cartão de débito
+10480;30/11/2025;46;5;Televendas;Concluído;Cartão de débito
+10481;26/01/2025;293;6;Marketplace;Concluído;Cartão de crédito
+10482;14/08/2026;28;5;E-commerce;Concluído;Cartão de crédito
+10483;09/10/2025;106;2;Televendas;Concluído;Boleto
+10484;12/04/2025;278;2;Marketplace;Concluído;Boleto
+10485;23/06/2025;31;5;Marketplace;Concluído;Cartão de crédito
+10486;23/02/2025;104;2;E-commerce;Concluído;Cartão de débito
+10487;21/07/2026;209;1;Televendas;Concluído;PIX
+10488;14/04/2025;127;5;E-commerce;Concluído;Cartão de débito
+10489;23/07/2026;232;1;Loja Física;Concluído;Boleto
+10490;25/01/2026;180;6;E-commerce;Concluído;Boleto
+10491;13/03/2025;154;1;Televendas;Concluído;PIX
+10492;09/04/2026;140;2;Marketplace;Concluído;Cartão de débito
+10493;24/07/2026;251;4;Loja Física;Concluído;Cartão de crédito
+10494;21/01/2026;308;3;Televendas;Concluído;Cartão de crédito
+10495;01/04/2026;5;2;Loja Física;Concluído;Boleto
+10496;28/08/2025;253;3;Loja Física;Concluído;PIX
+10497;10/02/2026;57;3;Televendas;Concluído;PIX
+10498;22/08/2025;268;6;Marketplace;Concluído;Cartão de crédito
+10499;19/03/2026;209;3;Loja Física;Concluído;Cartão de débito
+10500;09/08/2026;13;6;E-commerce;Devolvido;Cartão de débito
+10501;15/11/2025;33;6;Loja Física;Concluído;Cartão de débito
+10502;14/09/2025;127;1;Televendas;Concluído;Boleto
+10503;16/03/2025;308;5;Televendas;Concluído;Cartão de débito
+10504;22/01/2026;161;6;Loja Física;Concluído;Cartão de crédito
+10505;25/02/2026;120;5;Loja Física;Concluído;Cartão de débito
+10506;31/08/2026;100;5;E-commerce;Concluído;Boleto
+10507;22/08/2026;224;5;Marketplace;Concluído;PIX
+10508;15/06/2026;301;6;E-commerce;Concluído;Cartão de crédito
+10509;16/08/2026;290;3;Marketplace;Concluído;PIX
+10510;23/05/2026;113;1;E-commerce;Concluído;Cartão de débito
+10511;07/01/2025;186;1;Loja Física;Concluído;Cartão de crédito
+10512;14/02/2025;16;2;E-commerce;Concluído;PIX
+10513;22/01/2025;347;2;Televendas;Concluído;Cartão de crédito
+10514;21/03/2026;34;1;E-commerce;Cancelado;PIX
+10515;08/09/2025;24;5;E-commerce;Cancelado;Boleto
+10516;22/08/2026;251;2;Loja Física;Concluído;Cartão de crédito
+10517;21/04/2026;92;3;Marketplace;Concluído;Cartão de débito
+10518;12/03/2026;194;5;E-commerce;Em separação;Boleto
+10519;09/06/2026;319;3;Televendas;Concluído;Cartão de débito
+10520;29/10/2025;257;5;Loja Física;Concluído;PIX
+10521;14/07/2026;103;3;E-commerce;Concluído;Boleto
+10522;03/11/2025;145;3;Televendas;Em separação;Cartão de crédito
+10523;18/04/2026;175;1;Marketplace;Cancelado;Cartão de débito
+10524;30/12/2025;174;2;Televendas;Concluído;Cartão de débito
+10525;11/08/2026;201;4;E-commerce;Em separação;Cartão de crédito
+10526;16/05/2026;14;2;E-commerce;Concluído;Cartão de débito
+10527;01/12/2025;211;4;E-commerce;Devolvido;PIX
+10528;14/11/2025;301;2;Televendas;Concluído;Cartão de crédito
+10529;03/12/2025;292;4;Televendas;Concluído;Cartão de crédito
+10530;22/12/2025;153;4;E-commerce;Concluído;PIX
+10531;08/10/2025;322;5;Marketplace;Concluído;Cartão de crédito
+10532;18/04/2025;259;3;Televendas;Concluído;Boleto
+10533;18/04/2026;196;3;Televendas;Cancelado;Cartão de débito
+10534;20/05/2025;168;6;Televendas;Concluído;Cartão de crédito
+10535;25/03/2026;72;4;Marketplace;Cancelado;PIX
+10536;08/05/2025;274;6;Televendas;Concluído;Cartão de crédito
+10537;18/02/2025;326;5;Loja Física;Concluído;Boleto
+10538;15/01/2025;173;2;Loja Física;Concluído;Cartão de crédito
+10539;30/07/2026;321;2;E-commerce;Em separação;Cartão de débito
+10540;09/03/2025;337;3;Marketplace;Concluído;PIX
+10541;02/02/2026;348;6;E-commerce;Concluído;Boleto
+10542;08/05/2025;159;2;Televendas;Concluído;Cartão de crédito
+10543;26/07/2025;78;4;E-commerce;Concluído;PIX
+10544;07/07/2026;28;6;E-commerce;Concluído;PIX
+10545;04/04/2025;89;5;E-commerce;Concluído;Cartão de crédito
+10546;26/07/2025;140;4;Loja Física;Em separação;Boleto
+10547;27/03/2025;154;5;E-commerce;Concluído;PIX
+10548;26/04/2026;101;2;E-commerce;Concluído;Boleto
+10549;16/06/2025;100;4;Marketplace;Concluído;Boleto
+10550;29/01/2025;341;6;E-commerce;Concluído;Cartão de débito
+10551;29/01/2026;204;6;Loja Física;Concluído;PIX
+10552;02/04/2025;56;6;Marketplace;Concluído;Boleto
+10553;10/04/2025;36;6;Televendas;Concluído;Boleto
+10554;25/07/2025;31;6;E-commerce;Concluído;PIX
+10555;08/05/2025;142;1;Marketplace;Concluído;PIX
+10556;20/01/2026;309;5;Marketplace;Em separação;Cartão de débito
+10557;28/02/2025;183;3;Loja Física;Concluído;Cartão de débito
+10558;13/01/2026;232;5;Televendas;Concluído;PIX
+10559;16/02/2025;167;6;Televendas;Concluído;Cartão de débito
+10560;17/06/2026;293;6;Loja Física;Concluído;Cartão de crédito
+10561;07/09/2025;109;2;Loja Física;Concluído;Cartão de crédito
+10562;03/05/2026;344;1;E-commerce;Em separação;Cartão de débito
+10563;08/03/2025;330;3;Televendas;Em separação;Cartão de débito
+10564;17/11/2025;195;5;Loja Física;Concluído;PIX
+10565;20/11/2025;75;3;E-commerce;Concluído;Cartão de débito
+10566;30/05/2026;64;3;Televendas;Concluído;PIX
+10567;03/07/2025;250;6;Televendas;Concluído;PIX
+10568;30/04/2026;179;4;Televendas;Concluído;Boleto
+10569;08/11/2025;235;6;E-commerce;Concluído;Cartão de débito
+10570;21/01/2026;219;6;E-commerce;Em separação;Cartão de crédito
+10571;18/02/2026;126;1;Loja Física;Concluído;Cartão de débito
+10572;27/01/2026;141;6;Televendas;Concluído;Cartão de crédito
+10573;06/06/2026;116;1;Televendas;Concluído;Cartão de crédito
+10574;12/04/2025;167;1;E-commerce;Concluído;Cartão de crédito
+10575;01/05/2025;93;5;E-commerce;Concluído;Cartão de débito
+10576;28/03/2025;64;5;Marketplace;Concluído;PIX
+10577;27/12/2025;311;5;E-commerce;Concluído;Cartão de crédito
+10578;20/07/2026;111;5;Marketplace;Concluído;Cartão de débito
+10579;17/06/2025;205;4;Loja Física;Em separação;Cartão de débito
+10580;17/07/2025;191;5;E-commerce;Concluído;PIX
+10581;21/02/2026;34;3;Loja Física;Concluído;Boleto
+10582;07/05/2025;90;5;Marketplace;Concluído;Cartão de débito
+10583;16/10/2025;283;3;Loja Física;Em separação;PIX
+10584;10/01/2025;263;6;E-commerce;Concluído;PIX
+10585;25/04/2026;258;3;Marketplace;Em separação;PIX
+10586;06/04/2025;85;5;Loja Física;Concluído;Boleto
+10587;15/01/2025;316;2;Loja Física;Concluído;Boleto
+10588;21/06/2026;116;2;Loja Física;Concluído;PIX
+10589;07/07/2026;61;3;Marketplace;Concluído;Boleto
+10590;12/06/2026;19;4;Televendas;Concluído;Cartão de crédito
+10591;28/03/2025;271;5;E-commerce;Concluído;Cartão de débito
+10592;20/08/2025;241;4;Marketplace;Concluído;Cartão de débito
+10593;15/06/2025;72;3;Televendas;Concluído;PIX
+10594;09/02/2026;216;6;Marketplace;Em separação;PIX
+10595;23/05/2026;350;6;E-commerce;Concluído;Cartão de débito
+10596;16/03/2026;306;6;Loja Física;Concluído;Boleto
+10597;28/04/2025;135;6;E-commerce;Concluído;Cartão de débito
+10598;29/08/2026;323;6;E-commerce;Concluído;PIX
+10599;25/08/2025;114;3;Televendas;Concluído;Cartão de débito
+10600;15/10/2025;180;6;Televendas;Concluído;Cartão de crédito
+10601;14/10/2025;311;1;Televendas;Concluído;Cartão de débito
+10602;27/08/2026;271;5;Marketplace;Concluído;Boleto
+10603;04/05/2025;22;5;E-commerce;Concluído;Cartão de débito
+10604;18/12/2025;155;6;Televendas;Devolvido;PIX
+10605;22/12/2025;188;4;Loja Física;Em separação;Cartão de crédito
+10606;14/07/2025;204;4;Loja Física;Concluído;Cartão de débito
+10607;22/06/2026;133;3;E-commerce;Concluído;Boleto
+10608;01/09/2025;150;1;E-commerce;Em separação;Boleto
+10609;02/07/2026;60;1;;Concluído;Boleto
+10610;11/01/2025;183;2;Marketplace;Concluído;Cartão de crédito
+10611;19/07/2026;106;4;E-commerce;Concluído;PIX
+10612;13/07/2025;292;4;E-commerce;Concluído;Cartão de crédito
+10613;17/02/2026;52;6;E-commerce;Concluído;Cartão de crédito
+10614;14/01/2025;330;1;E-commerce;Concluído;Cartão de crédito
+10615;29/03/2025;104;2;Televendas;Concluído;Cartão de débito
+10616;01/10/2025;322;5;Loja Física;Concluído;Cartão de crédito
+10617;02/03/2026;73;1;E-commerce;Concluído;Cartão de débito
+10618;18/08/2025;53;3;Marketplace;Concluído;Boleto
+10619;14/02/2025;310;2;E-commerce;Concluído;Boleto
+10620;23/12/2025;54;3;Televendas;Concluído;Boleto
+10621;31/05/2025;164;2;Televendas;Concluído;Cartão de débito
+10622;13/10/2025;75;1;Marketplace;Devolvido;PIX
+10623;09/09/2025;197;4;Televendas;Concluído;Cartão de débito
+10624;13/08/2025;45;2;Marketplace;Concluído;Cartão de crédito
+10625;29/10/2025;236;2;Televendas;Concluído;PIX
+10626;27/05/2025;194;6;Loja Física;Concluído;Cartão de débito
+10627;25/05/2025;41;2;Loja Física;Concluído;Cartão de débito
+10628;27/04/2026;211;6;Marketplace;Concluído;Cartão de crédito
+10629;10/03/2026;349;4;Marketplace;Em separação;Boleto
+10630;05/08/2025;206;5;Loja Física;Concluído;PIX
+10631;19/02/2026;195;2;Loja Física;Concluído;Cartão de débito
+10632;29/01/2025;123;3;E-commerce;Concluído;Cartão de crédito
+10633;03/02/2025;124;3;Loja Física;Devolvido;Cartão de crédito
+10634;31/12/2025;67;6;Loja Física;Concluído;Cartão de crédito
+10635;25/10/2025;83;2;Televendas;Concluído;Cartão de crédito
+10636;29/05/2026;265;6;Marketplace;Concluído;PIX
+10637;18/03/2025;79;5;Televendas;Concluído;Cartão de crédito
+10638;23/06/2025;152;2;Loja Física;Concluído;Boleto
+10639;24/05/2025;64;5;Televendas;Concluído;Boleto
+10640;06/04/2026;135;6;Loja Física;Concluído;Cartão de crédito
+10641;13/02/2026;38;2;Televendas;Cancelado;Cartão de crédito
+10642;20/03/2026;103;4;Marketplace;Concluído;Boleto
+10643;05/08/2026;17;5;Televendas;Concluído;Boleto
+10644;08/10/2025;208;1;Marketplace;Cancelado;Cartão de débito
+10645;09/05/2026;244;5;E-commerce;Devolvido;Cartão de débito
+10646;16/08/2026;316;2;Marketplace;Concluído;Boleto
+10647;27/05/2026;163;1;Televendas;Concluído;Cartão de crédito
+10648;23/12/2025;108;2;Loja Física;Concluído;Boleto
+10649;08/05/2025;256;6;Televendas;Concluído;Boleto
+10650;16/06/2025;278;4;Televendas;Concluído;Cartão de débito
+10651;26/02/2026;54;4;Loja Física;Concluído;Cartão de crédito
+10652;21/04/2026;212;6;Televendas;Concluído;Boleto
+10653;05/09/2025;3;4;Loja Física;Concluído;PIX
+10654;17/07/2025;316;6;Televendas;Cancelado;Cartão de débito
+10655;12/06/2025;224;2;Loja Física;Concluído;PIX
+10656;24/09/2025;284;2;Marketplace;Concluído;Cartão de crédito
+10657;06/06/2025;15;5;Loja Física;Concluído;Cartão de crédito
+10658;01/11/2025;100;5;E-commerce;Concluído;Cartão de débito
+10659;06/05/2025;55;2;Marketplace;Concluído;PIX
+10660;01/08/2025;201;1;Televendas;Concluído;Cartão de débito
+10661;04/08/2025;215;4;Marketplace;Concluído;Cartão de débito
+10662;01/05/2025;176;3;Televendas;Devolvido;Cartão de crédito
+10663;24/01/2025;266;5;E-commerce;Concluído;Boleto
+10664;14/08/2025;43;6;E-commerce;Concluído;Cartão de débito
+10665;23/03/2026;263;4;E-commerce;Concluído;PIX
+10666;10/03/2026;306;6;Marketplace;Concluído;Cartão de crédito
+10667;28/10/2025;310;6;Marketplace;Concluído;Cartão de crédito
+10668;16/01/2026;191;2;Marketplace;Concluído;Boleto
+10669;26/11/2025;120;5;Loja Física;Concluído;PIX
+10670;18/03/2025;294;6;Televendas;Concluído;Cartão de débito
+10671;25/06/2025;308;3;Televendas;Concluído;Cartão de crédito
+10672;07/02/2025;274;5;Loja Física;Concluído;Cartão de crédito
+10673;05/11/2025;141;3;Marketplace;Concluído;Boleto
+10674;11/01/2025;72;1;Marketplace;Cancelado;Cartão de débito
+10675;06/01/2025;27;3;Loja Física;Concluído;Boleto
+10676;24/01/2026;139;6;E-commerce;Em separação;Cartão de débito
+10677;22/08/2026;212;6;Televendas;Concluído;PIX
+10678;30/07/2025;40;1;Televendas;Concluído;Cartão de crédito
+10679;28/08/2026;271;5;Marketplace;Concluído;Boleto
+10680;12/07/2025;36;3;Televendas;Concluído;Boleto
+10681;23/04/2025;124;1;Televendas;Concluído;Cartão de crédito
+10682;08/12/2025;28;4;Marketplace;Concluído;Cartão de crédito
+10683;12/09/2025;57;2;Loja Física;Concluído;Cartão de crédito
+10684;14/08/2025;138;4;E-commerce;Concluído;PIX
+10685;02/09/2025;88;3;Loja Física;Concluído;Boleto
+10686;01/09/2026;181;4;Loja Física;Concluído;PIX
+10687;08/11/2025;172;4;Televendas;Concluído;Boleto
+10688;16/06/2026;328;1;E-commerce;Devolvido;PIX
+10689;04/01/2026;106;6;Loja Física;Concluído;Cartão de débito
+10690;12/07/2026;231;5;E-commerce;Concluído;Boleto
+10691;06/05/2025;222;4;Marketplace;Concluído;Cartão de crédito
+10692;16/01/2025;233;1;E-commerce;Concluído;Cartão de crédito
+10693;27/12/2025;339;1;Loja Física;Concluído;Boleto
+10694;21/07/2025;222;5;Loja Física;Concluído;Cartão de crédito
+10695;27/11/2025;297;2;E-commerce;Concluído;Cartão de débito
+10696;13/07/2026;94;4;Televendas;Concluído;Cartão de débito
+10697;18/04/2026;15;5;Loja Física;Em separação;Cartão de débito
+10698;06/09/2025;298;5;Marketplace;Concluído;Boleto
+10699;07/01/2025;237;5;Televendas;Cancelado;Cartão de crédito
+10700;20/04/2025;171;5;Loja Física;Cancelado;Cartão de débito
+10701;23/05/2026;70;2;E-commerce;Concluído;Boleto
+10702;28/04/2025;35;1;E-commerce;Concluído;Cartão de crédito
+10703;26/01/2025;259;4;Televendas;Concluído;Cartão de crédito
+10704;26/03/2026;337;5;Loja Física;Concluído;Cartão de crédito
+10705;14/07/2026;103;4;Televendas;Concluído;Cartão de crédito
+10706;04/05/2025;289;4;Loja Física;Concluído;Cartão de crédito
+10707;04/08/2025;179;6;Televendas;Concluído;PIX
+10708;13/10/2025;338;3;Televendas;Concluído;Cartão de débito
+10709;23/12/2025;300;5;Televendas;Concluído;Cartão de crédito
+10710;28/11/2025;119;6;E-commerce;Concluído;PIX
+10711;28/06/2025;165;1;Televendas;Concluído;PIX
+10712;15/06/2025;223;5;E-commerce;Concluído;Cartão de crédito
+10713;06/01/2025;185;4;Loja Física;Concluído;Cartão de débito
+10714;27/07/2026;71;1;Televendas;Concluído;Cartão de débito
+10715;02/11/2025;52;1;Televendas;Concluído;Boleto
+10716;15/09/2025;200;6;Marketplace;Concluído;PIX
+10717;14/07/2026;57;5;Televendas;Em separação;Boleto
+10718;25/07/2025;172;1;E-commerce;Concluído;Boleto
+10719;06/02/2025;178;1;Televendas;Concluído;Cartão de crédito
+10720;22/01/2025;29;1;E-commerce;Concluído;Cartão de débito
+10721;22/01/2026;65;4;Televendas;Concluído;Cartão de crédito
+10722;04/07/2026;291;1;Loja Física;Cancelado;PIX
+10723;04/07/2025;145;1;Marketplace;Concluído;PIX
+10724;22/05/2026;183;2;Televendas;Concluído;Boleto
+10725;13/05/2026;144;1;E-commerce;Em separação;PIX
+10726;27/04/2025;11;4;Loja Física;Concluído;Cartão de débito
+10727;30/07/2025;195;2;Televendas;Concluído;Boleto
+10728;11/12/2025;135;5;E-commerce;Concluído;Boleto
+10729;20/04/2026;218;5;Marketplace;Concluído;Cartão de débito
+10730;09/02/2025;316;3;Marketplace;Concluído;Boleto
+10731;25/11/2025;136;2;Televendas;Concluído;Cartão de débito
+10732;07/05/2026;327;5;E-commerce;Concluído;Cartão de crédito
+10733;21/08/2025;323;2;E-commerce;Cancelado;Cartão de crédito
+10734;21/11/2025;22;5;E-commerce;Concluído;Boleto
+10735;04/06/2026;228;1;Loja Física;Concluído;Boleto
+10736;22/02/2026;334;3;Televendas;Em separação;Boleto
+10737;03/06/2025;303;1;Loja Física;Concluído;Boleto
+10738;22/03/2025;40;2;Televendas;Concluído;Cartão de crédito
+10739;17/06/2026;226;3;Marketplace;Concluído;Boleto
+10740;29/04/2025;124;4;Televendas;Concluído;Boleto
+10741;24/08/2025;230;4;E-commerce;Concluído;PIX
+10742;16/12/2025;161;1;Loja Física;Concluído;PIX
+10743;04/02/2025;221;1;E-commerce;Devolvido;PIX
+10744;16/02/2025;38;6;Marketplace;Em separação;Cartão de débito
+10745;31/08/2026;304;3;Televendas;Concluído;Cartão de débito
+10746;16/12/2025;25;5;Televendas;Concluído;Cartão de débito
+10747;12/04/2025;178;3;E-commerce;Concluído;Boleto
+10748;20/07/2026;261;2;Loja Física;Concluído;Cartão de crédito
+10749;13/03/2026;228;5;E-commerce;Cancelado;Boleto
+10750;21/05/2026;135;1;E-commerce;Devolvido;Cartão de crédito
+10751;10/06/2026;345;1;Marketplace;Em separação;Cartão de crédito
+10752;21/01/2026;113;6;E-commerce;Concluído;PIX
+10753;18/05/2026;286;5;E-commerce;Concluído;Cartão de crédito
+10754;12/05/2026;251;6;Televendas;Concluído;Cartão de débito
+10755;30/06/2025;238;3;Loja Física;Concluído;Cartão de débito
+10756;30/01/2025;149;3;E-commerce;Cancelado;Cartão de débito
+10757;22/11/2025;211;4;Televendas;Concluído;Boleto
+10758;14/12/2025;326;1;Marketplace;Concluído;PIX
+10759;04/12/2025;67;5;Loja Física;Em separação;Cartão de crédito
+10760;10/06/2025;275;4;E-commerce;Concluído;PIX
+10761;15/04/2025;257;4;Televendas;Concluído;Boleto
+10762;15/02/2026;68;6;Marketplace;Cancelado;Cartão de crédito
+10763;02/03/2026;11;1;E-commerce;Concluído;Cartão de débito
+10764;06/11/2025;141;4;E-commerce;Concluído;Cartão de débito
+10765;24/05/2026;202;3;Loja Física;Concluído;Cartão de crédito
+10766;01/08/2025;251;5;E-commerce;Concluído;Cartão de débito
+10767;26/11/2025;290;5;Televendas;Cancelado;Boleto
+10768;30/08/2025;165;4;Televendas;Concluído;Cartão de crédito
+10769;11/05/2025;7;2;Loja Física;Concluído;Cartão de débito
+10770;24/06/2025;321;5;Televendas;Concluído;Cartão de débito
+10771;25/05/2025;149;5;E-commerce;Concluído;Boleto
+10772;03/07/2025;77;4;Loja Física;Devolvido;Cartão de crédito
+10773;10/06/2025;35;3;E-commerce;Concluído;Cartão de crédito
+10774;17/02/2026;131;5;E-commerce;Concluído;PIX
+10775;01/08/2026;53;2;Televendas;Concluído;Boleto
+10776;21/05/2025;262;4;Televendas;Concluído;Boleto
+10777;21/11/2025;272;1;E-commerce;Em separação;Boleto
+10778;22/03/2026;334;3;E-commerce;Concluído;Boleto
+10779;23/06/2026;100;1;Marketplace;Concluído;Boleto
+10780;17/09/2025;141;6;Loja Física;Devolvido;Cartão de crédito
+10781;06/06/2025;91;2;;Concluído;Cartão de crédito
+10782;18/11/2025;50;5;Marketplace;Devolvido;PIX
+10783;23/06/2025;301;6;Marketplace;Concluído;Cartão de débito
+10784;24/02/2026;89;6;Loja Física;Concluído;Boleto
+10785;30/03/2025;290;4;Loja Física;Concluído;Cartão de crédito
+10786;11/08/2025;327;3;Televendas;Concluído;PIX
+10787;02/08/2026;162;4;E-commerce;Cancelado;Boleto
+10788;30/12/2025;297;3;Marketplace;Concluído;Cartão de débito
+10789;04/08/2025;223;3;Marketplace;Concluído;Boleto
+10790;12/08/2025;240;3;Loja Física;Em separação;PIX
+10791;12/06/2025;216;4;Marketplace;Concluído;Cartão de crédito
+10792;26/03/2026;316;4;Televendas;Concluído;Cartão de débito
+10793;04/11/2025;21;2;Loja Física;Concluído;Boleto
+10794;25/02/2025;47;3;E-commerce;Concluído;Cartão de débito
+10795;03/04/2025;126;2;Marketplace;Concluído;PIX
+10796;06/09/2025;50;4;E-commerce;Concluído;PIX
+10797;02/07/2025;121;3;Marketplace;Concluído;Cartão de crédito
+10798;04/06/2025;146;3;Televendas;Concluído;Cartão de débito
+10799;03/07/2025;84;4;Loja Física;Concluído;Cartão de crédito
+10800;11/04/2026;6;4;Televendas;Concluído;Cartão de crédito
+10801;10/12/2025;274;3;Loja Física;Concluído;Cartão de débito
+10802;10/02/2025;63;4;Televendas;Concluído;Boleto
+10803;03/04/2026;167;3;Loja Física;Concluído;Boleto
+10804;29/06/2025;44;5;Loja Física;Concluído;PIX
+10805;31/05/2025;312;6;Loja Física;Concluído;Cartão de crédito
+10806;30/04/2025;99;5;Marketplace;Devolvido;PIX
+10807;24/03/2026;141;6;E-commerce;Concluído;Cartão de crédito
+10808;22/11/2025;50;2;E-commerce;Concluído;Boleto
+10809;07/03/2026;326;5;Marketplace;Concluído;Cartão de débito
+10810;01/04/2026;78;4;Televendas;Concluído;PIX
+10811;14/01/2026;156;3;Marketplace;Concluído;Cartão de débito
+10812;27/12/2025;290;4;Televendas;Devolvido;Cartão de crédito
+10813;10/04/2025;203;2;E-commerce;Devolvido;Boleto
+10814;11/08/2025;215;5;Marketplace;Concluído;Boleto
+10815;06/02/2026;116;4;Televendas;Concluído;Boleto
+10816;28/01/2026;298;6;Televendas;Devolvido;Cartão de débito
+10817;08/08/2026;210;1;Marketplace;Concluído;PIX
+10818;03/09/2025;90;4;E-commerce;Concluído;Boleto
+10819;16/04/2026;126;6;Televendas;Devolvido;PIX
+10820;21/02/2026;267;4;Televendas;Concluído;Cartão de débito
+10821;27/10/2025;204;6;Loja Física;Concluído;Cartão de débito
+10822;10/05/2026;108;3;Loja Física;Concluído;Cartão de crédito
+10823;06/02/2025;72;2;Marketplace;Concluído;Boleto
+10824;29/10/2025;80;6;E-commerce;Concluído;Boleto
+10825;20/02/2026;245;5;E-commerce;Devolvido;PIX
+10826;15/01/2025;343;1;Marketplace;Concluído;PIX
+10827;26/05/2026;236;5;Loja Física;Cancelado;PIX
+10828;10/03/2025;139;5;Loja Física;Devolvido;Cartão de crédito
+10829;30/09/2025;283;3;Loja Física;Concluído;Cartão de crédito
+10830;04/05/2026;238;1;Loja Física;Concluído;Cartão de crédito
+10831;27/08/2026;111;5;Televendas;Concluído;Cartão de crédito
+10832;05/10/2025;253;6;E-commerce;Concluído;Cartão de débito
+10833;27/03/2026;58;2;Televendas;Concluído;Cartão de débito
+10834;26/08/2025;110;3;Marketplace;Concluído;Cartão de débito
+10835;08/08/2026;345;2;Marketplace;Concluído;Cartão de débito
+10836;03/03/2026;138;2;Marketplace;Concluído;Boleto
+10837;07/02/2026;214;1;Televendas;Concluído;Cartão de débito
+10838;29/10/2025;192;1;Marketplace;Concluído;Cartão de débito
+10839;14/06/2025;167;6;Televendas;Em separação;Cartão de débito
+10840;14/05/2026;128;3;Televendas;Concluído;Cartão de crédito
+10841;28/02/2026;78;2;Marketplace;Concluído;Cartão de crédito
+10842;02/04/2026;110;2;Marketplace;Concluído;Cartão de débito
+10843;25/02/2026;219;4;Televendas;Concluído;Cartão de crédito
+10844;08/12/2025;325;1;Loja Física;Concluído;Cartão de crédito
+10845;15/07/2025;38;6;Televendas;Concluído;Cartão de débito
+10846;12/08/2026;151;1;Televendas;Concluído;PIX
+10847;25/07/2025;295;3;E-commerce;Concluído;PIX
+10848;11/05/2025;277;3;Loja Física;Concluído;Boleto
+10849;11/08/2025;182;1;E-commerce;Cancelado;Cartão de débito
+10850;02/08/2025;195;1;Televendas;Concluído;PIX
+10851;16/08/2026;265;1;E-commerce;Concluído;Cartão de crédito
+10852;17/01/2025;4;4;Televendas;Concluído;Cartão de crédito
+10853;28/03/2025;334;6;Televendas;Cancelado;Cartão de crédito
+10854;27/04/2026;20;1;E-commerce;Cancelado;Boleto
+10855;05/07/2025;187;1;E-commerce;Concluído;PIX
+10856;05/02/2025;74;4;Loja Física;Concluído;PIX
+10857;26/04/2025;244;4;Televendas;Cancelado;Cartão de débito
+10858;12/05/2025;166;6;Marketplace;Em separação;Cartão de crédito
+10859;08/04/2025;207;3;Loja Física;Concluído;Boleto
+10860;01/10/2025;68;3;Televendas;Concluído;PIX
+10861;06/07/2025;8;2;Loja Física;Cancelado;PIX
+10862;12/07/2025;322;5;Televendas;Concluído;PIX
+10863;17/07/2026;234;6;Loja Física;Concluído;Boleto
+10864;24/04/2025;62;5;Marketplace;Concluído;Boleto
+10865;16/08/2025;9;2;Marketplace;Concluído;PIX
+10866;28/06/2026;86;3;E-commerce;Concluído;PIX
+10867;20/02/2025;206;3;Televendas;Em separação;Cartão de débito
+10868;02/03/2025;211;2;E-commerce;Concluído;PIX
+10869;12/09/2025;180;1;E-commerce;Devolvido;Boleto
+10870;30/07/2025;228;2;Marketplace;Concluído;Cartão de crédito
+10871;28/04/2026;119;6;Televendas;Concluído;Cartão de crédito
+10872;23/08/2026;87;6;Televendas;Concluído;PIX
+10873;07/01/2026;124;6;Televendas;Cancelado;Cartão de débito
+10874;14/01/2025;52;6;Televendas;Concluído;Cartão de débito
+10875;15/05/2026;288;5;Televendas;Concluído;Cartão de débito
+10876;11/04/2025;295;1;Loja Física;Devolvido;PIX
+10877;17/04/2026;294;5;Loja Física;Em separação;Cartão de débito
+10878;03/12/2025;51;3;Televendas;Concluído;Cartão de débito
+10879;29/11/2025;235;6;Marketplace;Concluído;PIX
+10880;26/06/2025;256;1;Marketplace;Concluído;PIX
+10881;27/01/2026;104;3;Televendas;Concluído;Cartão de débito
+10882;28/07/2026;152;5;E-commerce;Concluído;Cartão de crédito
+10883;15/12/2025;273;3;Televendas;Concluído;Cartão de débito
+10884;28/11/2025;116;4;Loja Física;Concluído;PIX
+10885;29/05/2025;7;3;E-commerce;Devolvido;Cartão de débito
+10886;08/01/2026;135;4;Marketplace;Concluído;PIX
+10887;12/05/2025;50;5;Televendas;Concluído;Cartão de crédito
+10888;22/04/2026;138;5;Loja Física;Concluído;Cartão de débito
+10889;08/03/2025;142;5;Marketplace;Em separação;Cartão de crédito
+10890;05/06/2026;209;2;Marketplace;Cancelado;Cartão de crédito
+10891;03/07/2025;93;1;Televendas;Concluído;Boleto
+10892;01/02/2026;209;4;Televendas;Concluído;Boleto
+10893;03/04/2025;95;3;Televendas;Concluído;Boleto
+10894;21/06/2026;132;1;Loja Física;Devolvido;Cartão de crédito
+10895;31/07/2026;192;1;E-commerce;Concluído;Cartão de débito
+10896;19/01/2026;294;2;Televendas;Concluído;PIX
+10897;16/11/2025;150;1;Marketplace;Concluído;PIX
+10898;12/12/2025;233;6;Televendas;Concluído;Cartão de crédito
+10899;03/09/2025;252;2;Televendas;Concluído;Cartão de crédito
+10900;25/07/2025;145;3;E-commerce;Concluído;PIX
+10901;03/02/2026;157;4;Marketplace;Concluído;Cartão de crédito
+10902;25/08/2026;293;5;E-commerce;Concluído;Cartão de crédito
+10903;12/07/2025;181;5;Loja Física;Cancelado;Cartão de débito
+10904;14/04/2026;96;2;Marketplace;Concluído;PIX
+10905;05/12/2025;91;4;E-commerce;Concluído;Cartão de débito
+10906;22/09/2025;217;6;Marketplace;Concluído;Boleto
+10907;12/05/2025;340;6;E-commerce;Concluído;Cartão de crédito
+10908;10/03/2025;94;5;Marketplace;Concluído;Boleto
+10909;25/07/2025;66;5;Loja Física;Concluído;Cartão de crédito
+10910;08/07/2025;43;6;Loja Física;Concluído;Boleto
+10911;16/12/2025;129;2;Marketplace;Concluído;Cartão de crédito
+10912;13/03/2025;126;5;Marketplace;Concluído;PIX
+10913;26/11/2025;190;1;E-commerce;Em separação;PIX
+10914;01/02/2026;291;1;E-commerce;Concluído;Cartão de crédito
+10915;09/08/2026;331;4;Marketplace;Concluído;Cartão de débito
+10916;18/08/2025;74;3;E-commerce;Devolvido;Cartão de débito
+10917;09/07/2026;117;4;E-commerce;Cancelado;Boleto
+10918;02/02/2026;238;3;Marketplace;Concluído;Cartão de débito
+10919;08/01/2026;238;5;Televendas;Concluído;Boleto
+10920;27/02/2026;27;2;E-commerce;Concluído;PIX
+10921;16/02/2026;295;2;E-commerce;Concluído;Cartão de débito
+10922;28/06/2026;322;1;Loja Física;Concluído;Cartão de crédito
+10923;06/12/2025;47;3;Marketplace;Concluído;PIX
+10924;03/04/2026;244;3;E-commerce;Concluído;Cartão de crédito
+10925;12/06/2025;288;5;Televendas;Concluído;Boleto
+10926;19/05/2025;196;4;Televendas;Concluído;Cartão de crédito
+10927;29/03/2025;190;1;E-commerce;Concluído;Boleto
+10928;17/01/2025;319;5;Televendas;Devolvido;Boleto
+10929;10/11/2025;135;4;Televendas;Concluído;Boleto
+10930;25/01/2026;199;1;Marketplace;Concluído;Boleto
+10931;17/07/2025;251;3;Marketplace;Concluído;Cartão de débito
+10932;24/01/2025;66;1;E-commerce;Concluído;Boleto
+10933;31/03/2025;39;1;Loja Física;Concluído;Boleto
+10934;05/12/2025;341;1;Loja Física;Concluído;PIX
+10935;27/08/2025;108;1;Loja Física;Concluído;PIX
+10936;07/01/2025;41;2;E-commerce;Concluído;PIX
+10937;22/08/2025;84;4;Marketplace;Concluído;Boleto
+10938;15/09/2025;145;2;Loja Física;Concluído;Cartão de débito
+10939;01/04/2025;164;5;Marketplace;Concluído;Cartão de crédito
+10940;14/07/2025;117;5;E-commerce;Concluído;Boleto
+10941;23/05/2025;163;4;E-commerce;Concluído;Cartão de crédito
+10942;12/06/2025;156;5;Marketplace;Concluído;Cartão de débito
+10943;24/10/2025;73;2;Televendas;Concluído;Cartão de débito
+10944;16/12/2025;192;6;E-commerce;Concluído;Cartão de débito
+10945;10/09/2025;108;3;E-commerce;Em separação;Boleto
+10946;31/08/2025;128;4;Televendas;Em separação;Boleto
+10947;26/11/2025;42;5;Televendas;Concluído;Boleto
+10948;10/10/2025;74;3;Loja Física;Concluído;PIX
+10949;10/05/2026;288;2;Marketplace;Em separação;Cartão de débito
+10950;04/03/2025;100;5;Marketplace;Concluído;Cartão de débito
+10951;23/07/2026;81;5;Televendas;Concluído;Cartão de crédito
+10952;07/05/2025;27;3;Televendas;Concluído;Boleto
+10953;10/02/2025;262;1;E-commerce;Concluído;Cartão de crédito
+10954;01/01/2026;174;1;Televendas;Concluído;Cartão de crédito
+10955;25/09/2025;117;2;Loja Física;Concluído;Cartão de crédito
+10956;13/08/2025;120;2;E-commerce;Concluído;Boleto
+10957;24/08/2025;299;4;Loja Física;Concluído;Cartão de crédito
+10958;16/10/2025;137;5;Marketplace;Concluído;PIX
+10959;03/05/2025;334;3;Televendas;Concluído;Cartão de débito
+10960;24/07/2025;292;6;Marketplace;Cancelado;PIX
+10961;13/01/2025;111;2;Marketplace;Concluído;Cartão de débito
+10962;12/09/2025;40;5;Loja Física;Cancelado;Cartão de crédito
+10963;07/11/2025;228;4;E-commerce;Concluído;Boleto
+10964;23/01/2025;153;1;Loja Física;Concluído;Boleto
+10965;25/07/2026;140;3;Loja Física;Concluído;Cartão de débito
+10966;22/01/2026;16;1;Televendas;Concluído;Cartão de débito
+10967;12/07/2025;121;6;Televendas;Concluído;Cartão de crédito
+10968;12/07/2026;84;3;Marketplace;Concluído;PIX
+10969;22/05/2026;346;5;Televendas;Concluído;Cartão de débito
+10970;07/12/2025;184;6;Televendas;Concluído;PIX
+10971;29/05/2025;307;3;E-commerce;Cancelado;PIX
+10972;12/02/2025;267;1;Loja Física;Concluído;PIX
+10973;20/06/2026;337;4;E-commerce;Concluído;Cartão de débito
+10974;09/06/2025;97;6;Loja Física;Em separação;Cartão de crédito
+10975;25/01/2025;9;1;Marketplace;Concluído;PIX
+10976;09/03/2026;184;6;Televendas;Concluído;Boleto
+10977;19/05/2026;17;4;Marketplace;Concluído;Boleto
+10978;09/02/2025;250;1;Televendas;Concluído;Cartão de crédito
+10979;07/04/2025;233;4;Marketplace;Concluído;Cartão de débito
+10980;08/04/2026;111;5;Televendas;Concluído;PIX
+10981;05/07/2025;238;3;Televendas;Concluído;Cartão de crédito
+10982;25/10/2025;308;3;Televendas;Concluído;PIX
+10983;06/01/2025;199;6;E-commerce;Concluído;Cartão de crédito
+10984;14/04/2025;85;2;E-commerce;Concluído;Cartão de crédito
+10985;23/03/2026;286;6;Televendas;Concluído;Cartão de crédito
+10986;08/08/2026;96;6;E-commerce;Concluído;Boleto
+10987;31/05/2025;154;2;Televendas;Concluído;Cartão de crédito
+10988;23/08/2026;272;1;Marketplace;Cancelado;PIX
+10989;02/02/2026;284;6;Loja Física;Concluído;PIX
+10990;28/02/2026;321;3;E-commerce;Cancelado;Cartão de débito
+10991;09/02/2026;15;2;Marketplace;Concluído;PIX
+10992;11/06/2025;124;5;Marketplace;Concluído;Cartão de crédito
+10993;07/11/2025;275;5;Marketplace;Em separação;Cartão de débito
+10994;17/05/2026;176;5;Loja Física;Concluído;Boleto
+10995;10/11/2025;99;3;Televendas;Concluído;Cartão de débito
+10996;06/01/2026;278;5;Marketplace;Concluído;Cartão de débito
+10997;12/12/2025;94;6;Televendas;Concluído;Cartão de débito
+10998;04/01/2025;35;2;Marketplace;Em separação;Cartão de débito
+10999;24/03/2026;199;3;Loja Física;Concluído;Cartão de crédito
+11000;10/03/2026;105;1;Loja Física;Concluído;Boleto
+11001;31/08/2025;78;1;Marketplace;Concluído;PIX
+11002;21/02/2026;114;2;Televendas;Concluído;PIX
+11003;31/01/2026;229;2;E-commerce;Concluído;Cartão de crédito
+11004;24/03/2026;269;3;Marketplace;Concluído;Cartão de débito
+11005;19/02/2026;141;2;Marketplace;Em separação;Cartão de débito
+11006;26/01/2026;11;4;Televendas;Concluído;Cartão de débito
+11007;03/10/2025;188;3;Televendas;Concluído;PIX
+11008;12/06/2025;48;5;Loja Física;Concluído;Boleto
+11009;23/02/2025;294;6;E-commerce;Concluído;Cartão de débito
+11010;21/07/2026;189;6;E-commerce;Concluído;PIX
+11011;28/05/2026;259;1;Televendas;Concluído;Cartão de crédito
+11012;12/09/2025;83;6;Loja Física;Concluído;Cartão de débito
+11013;18/07/2026;278;6;Televendas;Cancelado;Cartão de débito
+11014;10/05/2025;19;2;Loja Física;Concluído;Boleto
+11015;17/01/2025;111;4;E-commerce;Concluído;PIX
+11016;22/04/2026;191;2;Televendas;Concluído;Cartão de crédito
+11017;22/04/2026;198;6;Televendas;Concluído;Boleto
+11018;19/06/2025;6;1;E-commerce;Concluído;Boleto
+11019;18/06/2026;191;1;Televendas;Concluído;Cartão de débito
+11020;20/03/2026;264;1;Loja Física;Devolvido;PIX
+11021;07/11/2025;7;2;E-commerce;Concluído;PIX
+11022;09/03/2025;113;4;E-commerce;Em separação;Cartão de débito
+11023;17/01/2026;241;3;Marketplace;Concluído;Boleto
+11024;20/08/2025;12;4;Televendas;Concluído;Boleto
+11025;12/09/2025;238;2;Loja Física;Concluído;Boleto
+11026;23/03/2026;208;4;E-commerce;Concluído;Cartão de crédito
+11027;17/03/2026;121;3;E-commerce;Concluído;PIX
+11028;09/01/2025;77;5;Televendas;Concluído;Cartão de crédito
+11029;01/01/2026;342;5;Loja Física;Concluído;Boleto
+11030;24/06/2025;201;4;Loja Física;Concluído;Boleto
+11031;19/04/2026;311;3;E-commerce;Concluído;Cartão de crédito
+11032;28/10/2025;335;6;Televendas;Concluído;PIX
+11033;01/06/2025;56;4;E-commerce;Concluído;Cartão de crédito
+11034;20/07/2026;301;3;E-commerce;Em separação;Cartão de crédito
+11035;20/04/2026;338;4;Marketplace;Concluído;Boleto
+11036;03/09/2025;263;5;Televendas;Em separação;PIX
+11037;17/01/2026;173;1;Loja Física;Concluído;PIX
+11038;26/06/2026;303;5;E-commerce;Concluído;Cartão de crédito
+11039;20/04/2026;312;5;E-commerce;Em separação;PIX
+11040;16/08/2025;231;2;Televendas;Concluído;Cartão de crédito
+11041;03/03/2026;9;5;Marketplace;Concluído;Cartão de crédito
+11042;13/07/2026;336;2;Loja Física;Concluído;Cartão de crédito
+11043;21/09/2025;213;2;Televendas;Concluído;PIX
+11044;09/06/2025;63;1;E-commerce;Concluído;Boleto
+11045;22/04/2026;262;1;Televendas;Concluído;Boleto
+11046;30/06/2025;199;2;Marketplace;Concluído;Cartão de crédito
+11047;19/06/2026;274;2;Televendas;Devolvido;Boleto
+11048;17/04/2025;263;4;E-commerce;Concluído;Cartão de débito
+11049;25/07/2026;235;4;Marketplace;Concluído;PIX
+11050;08/08/2026;182;1;Marketplace;Concluído;Cartão de débito
+11051;18/05/2025;50;5;Loja Física;Concluído;Cartão de débito
+11052;26/02/2025;154;6;E-commerce;Concluído;Cartão de débito
+11053;18/03/2025;256;3;Marketplace;Concluído;Cartão de crédito
+11054;27/04/2025;49;3;Marketplace;Concluído;Cartão de crédito
+11055;18/07/2026;278;1;Marketplace;Em separação;Boleto
+11056;16/11/2025;216;1;Marketplace;Concluído;Cartão de crédito
+11057;13/02/2025;241;3;Televendas;Concluído;Boleto
+11058;06/08/2026;54;6;Loja Física;Concluído;PIX
+11059;14/08/2026;97;4;E-commerce;Concluído;PIX
+11060;07/03/2026;131;6;Televendas;Concluído;Cartão de crédito
+11061;25/08/2025;128;6;Loja Física;Concluído;Cartão de débito
+11062;24/04/2025;8;4;Loja Física;Concluído;Cartão de débito
+11063;23/01/2026;338;5;Marketplace;Concluído;PIX
+11064;24/03/2026;26;3;Loja Física;Concluído;PIX
+11065;24/10/2025;105;4;Loja Física;Cancelado;PIX
+11066;07/11/2025;330;2;Televendas;Concluído;Boleto
+11067;06/06/2026;329;2;Loja Física;Concluído;Boleto
+11068;20/04/2025;124;3;Marketplace;Concluído;PIX
+11069;10/11/2025;218;3;Marketplace;Concluído;Cartão de débito
+11070;28/04/2026;124;5;Marketplace;Concluído;Cartão de débito
+11071;25/08/2025;211;1;E-commerce;Concluído;Cartão de crédito
+11072;15/08/2025;110;2;Marketplace;Concluído;Boleto
+11073;26/08/2026;231;2;Loja Física;Concluído;PIX
+11074;04/07/2026;323;2;Loja Física;Concluído;Boleto
+11075;13/04/2025;46;5;E-commerce;Em separação;Boleto
+11076;09/04/2026;285;6;E-commerce;Concluído;Cartão de crédito
+11077;28/08/2025;24;6;E-commerce;Concluído;PIX
+11078;02/02/2025;61;6;E-commerce;Concluído;Boleto
+11079;05/08/2025;38;2;Televendas;Concluído;PIX
+11080;29/08/2026;300;3;Televendas;Concluído;PIX
+11081;03/07/2026;239;1;Loja Física;Concluído;PIX
+11082;26/04/2025;287;4;Televendas;Em separação;PIX
+11083;10/05/2025;124;1;Loja Física;Concluído;Cartão de crédito
+11084;30/07/2025;72;2;Loja Física;Concluído;Cartão de débito
+11085;24/03/2025;165;4;E-commerce;Concluído;Boleto
+11086;25/01/2025;16;1;Marketplace;Concluído;Cartão de crédito
+11087;26/03/2026;276;6;Marketplace;Concluído;Cartão de crédito
+11088;24/10/2025;150;3;E-commerce;Concluído;PIX
+11089;04/06/2026;223;4;Loja Física;Concluído;Cartão de crédito
+11090;20/12/2025;326;3;Loja Física;Concluído;Boleto
+11091;08/06/2026;117;3;Marketplace;Concluído;Boleto
+11092;04/09/2025;211;5;Televendas;Concluído;Cartão de crédito
+11093;16/09/2025;271;1;Loja Física;Concluído;Boleto
+11094;12/07/2025;271;6;Loja Física;Concluído;PIX
+11095;24/06/2025;268;5;Marketplace;Concluído;PIX
+11096;14/05/2025;189;6;Televendas;Concluído;Boleto
+11097;25/10/2025;22;2;Televendas;Concluído;Boleto
+11098;22/01/2026;158;4;Marketplace;Cancelado;Cartão de crédito
+11099;06/12/2025;69;4;Loja Física;Concluído;Boleto
+11100;26/10/2025;123;2;E-commerce;Concluído;Boleto
+11101;25/05/2025;53;1;Loja Física;Concluído;Cartão de débito
+11102;10/02/2025;209;1;Loja Física;Em separação;Cartão de débito
+11103;09/07/2025;107;1;Loja Física;Concluído;Boleto
+11104;03/05/2025;213;1;E-commerce;Concluído;Boleto
+11105;12/08/2026;147;1;Marketplace;Concluído;Cartão de débito
+11106;02/06/2026;76;1;E-commerce;Concluído;Boleto
+11107;22/02/2026;22;3;Loja Física;Concluído;Boleto
+11108;17/02/2025;266;6;Loja Física;Concluído;PIX
+11109;31/01/2026;79;6;Televendas;Concluído;PIX
+11110;15/12/2025;183;1;Televendas;Concluído;PIX
+11111;29/04/2025;124;3;Loja Física;Concluído;Cartão de débito
+11112;20/05/2025;209;1;E-commerce;Concluído;Boleto
+11113;08/04/2026;10;5;Loja Física;Concluído;Cartão de crédito
+11114;10/08/2026;320;6;Televendas;Concluído;Cartão de débito
+11115;17/08/2026;197;6;E-commerce;Concluído;Cartão de crédito
+11116;09/07/2025;115;3;E-commerce;Concluído;Cartão de débito
+11117;01/02/2025;329;4;E-commerce;Concluído;Boleto
+11118;07/09/2025;267;2;Loja Física;Cancelado;Boleto
+11119;01/05/2025;73;6;Televendas;Concluído;PIX
+11120;16/03/2025;111;1;Televendas;Concluído;Cartão de crédito
+11121;15/09/2025;99;3;Televendas;Concluído;PIX
+11122;07/01/2025;342;5;Televendas;Concluído;Cartão de débito
+11123;31/05/2026;104;1;Loja Física;Concluído;Boleto
+11124;25/06/2026;29;5;Marketplace;Concluído;Cartão de crédito
+11125;28/05/2025;26;6;Marketplace;Concluído;Boleto
+11126;24/05/2025;207;4;E-commerce;Concluído;Boleto
+11127;19/05/2026;321;4;Televendas;Em separação;PIX
+11128;01/07/2026;135;1;E-commerce;Concluído;Cartão de débito
+11129;27/07/2025;177;4;Loja Física;Concluído;Cartão de crédito
+11130;22/11/2025;68;4;Televendas;Concluído;Boleto
+11131;16/08/2026;166;1;E-commerce;Cancelado;Boleto
+11132;24/02/2025;122;4;E-commerce;Concluído;Cartão de crédito
+11133;05/04/2025;252;5;E-commerce;Concluído;PIX
+11134;25/03/2026;120;4;E-commerce;Cancelado;PIX
+11135;23/11/2025;210;1;Marketplace;Concluído;Cartão de débito
+11136;12/07/2026;326;4;Televendas;Concluído;Cartão de crédito
+11137;21/01/2026;277;2;Loja Física;Concluído;PIX
+11138;10/01/2026;8;3;Televendas;Em separação;Boleto
+11139;01/09/2026;21;5;Marketplace;Concluído;Boleto
+11140;05/12/2025;18;5;E-commerce;Concluído;Cartão de débito
+11141;09/06/2026;284;6;Loja Física;Concluído;Boleto
+11142;29/08/2025;279;4;Televendas;Concluído;PIX
+11143;07/03/2025;322;6;Televendas;Concluído;Cartão de débito
+11144;20/07/2025;253;6;Loja Física;Concluído;Boleto
+11145;01/09/2025;189;1;Marketplace;Cancelado;Boleto
+11146;19/01/2026;138;3;E-commerce;Em separação;Cartão de débito
+11147;13/08/2026;138;4;E-commerce;Cancelado;PIX
+11148;23/03/2025;349;3;E-commerce;Concluído;Boleto
+11149;18/12/2025;272;5;Marketplace;Concluído;Cartão de crédito
+11150;22/10/2025;134;2;Loja Física;Concluído;Cartão de crédito
+11151;11/05/2026;85;1;E-commerce;Concluído;Boleto
+11152;01/04/2025;167;3;Televendas;Concluído;Boleto
+11153;06/03/2026;244;6;Loja Física;Concluído;Cartão de débito
+11154;13/04/2026;197;5;Loja Física;Concluído;Cartão de débito
+11155;05/05/2026;4;3;Marketplace;Concluído;Boleto
+11156;06/07/2026;227;3;Marketplace;Cancelado;PIX
+11157;22/10/2025;92;5;E-commerce;Concluído;Cartão de crédito
+11158;20/05/2025;4;1;Loja Física;Concluído;Boleto
+11159;12/03/2025;107;1;Marketplace;Concluído;Cartão de crédito
+11160;17/06/2026;269;5;Televendas;Concluído;Cartão de débito
+11161;28/03/2026;150;6;Televendas;Concluído;Cartão de crédito
+11162;03/08/2025;36;5;E-commerce;Concluído;PIX
+11163;10/05/2025;103;5;E-commerce;Cancelado;Cartão de crédito
+11164;13/06/2025;105;6;Televendas;Concluído;PIX
+11165;30/07/2026;322;3;Televendas;Concluído;PIX
+11166;08/06/2026;343;6;Televendas;Concluído;PIX
+11167;27/03/2026;62;6;Televendas;Concluído;Cartão de débito
+11168;20/08/2026;96;1;Marketplace;Concluído;PIX
+11169;23/08/2026;39;6;Marketplace;Concluído;PIX
+11170;28/07/2025;164;5;Marketplace;Concluído;Cartão de crédito
+11171;15/08/2026;256;5;Loja Física;Concluído;Cartão de débito
+11172;26/04/2025;110;4;Marketplace;Concluído;PIX
+11173;11/02/2026;28;5;E-commerce;Concluído;Cartão de crédito
+11174;04/08/2025;191;6;Marketplace;Concluído;Cartão de débito
+11175;06/11/2025;121;4;Loja Física;Concluído;Boleto
+11176;04/08/2025;293;1;Loja Física;Concluído;PIX
+11177;21/07/2025;3;5;Televendas;Devolvido;Cartão de crédito
+11178;04/06/2025;78;1;E-commerce;Concluído;Cartão de débito
+11179;12/02/2025;62;5;Loja Física;Concluído;Boleto
+11180;03/07/2025;234;6;Marketplace;Concluído;Cartão de crédito
+11181;09/02/2026;321;5;E-commerce;Em separação;Cartão de crédito
+11182;25/12/2025;195;1;Loja Física;Concluído;PIX
+11183;26/05/2025;142;2;Televendas;Em separação;Boleto
+11184;27/01/2025;73;4;Loja Física;Concluído;Boleto
+11185;04/03/2025;227;6;Loja Física;Concluído;Cartão de crédito
+11186;20/10/2025;17;2;Loja Física;Concluído;Boleto
+11187;16/01/2026;146;4;E-commerce;Em separação;Boleto
+11188;28/01/2025;212;5;E-commerce;Concluído;Cartão de débito
+11189;11/01/2026;230;1;E-commerce;Concluído;Cartão de crédito
+11190;23/08/2025;171;1;Loja Física;Concluído;Boleto
+11191;26/01/2025;9;5;Televendas;Concluído;Boleto
+11192;17/02/2026;81;4;Marketplace;Cancelado;Cartão de débito
+11193;13/04/2025;160;3;Loja Física;Concluído;Cartão de crédito
+11194;24/04/2026;64;3;Loja Física;Concluído;Boleto
+11195;04/10/2025;294;1;Marketplace;Concluído;Cartão de crédito
+11196;24/05/2026;203;5;Televendas;Concluído;Cartão de crédito
+11197;24/07/2026;150;1;Televendas;Em separação;Cartão de crédito
+11198;12/09/2025;120;2;Marketplace;Concluído;PIX
+11199;19/06/2025;221;6;E-commerce;Concluído;Cartão de débito
+11200;25/06/2025;55;1;Televendas;Concluído;PIX
+11201;27/03/2025;121;3;Televendas;Em separação;Cartão de crédito
+11202;05/07/2026;258;6;Marketplace;Em separação;Cartão de crédito
+11203;08/11/2025;274;2;E-commerce;Concluído;Cartão de débito
+11204;07/07/2026;89;1;Loja Física;Concluído;Cartão de crédito
+11205;28/03/2025;81;5;Televendas;Concluído;Boleto
+11206;06/02/2026;297;6;Televendas;Concluído;Cartão de crédito
+11207;14/03/2026;23;4;E-commerce;Concluído;Boleto
+11208;18/08/2026;338;6;Televendas;Concluído;Cartão de crédito
+11209;16/11/2025;78;1;Televendas;Concluído;Boleto
+11210;17/08/2026;125;6;Televendas;Concluído;PIX
+11211;30/09/2025;274;4;E-commerce;Concluído;Cartão de débito
+11212;11/03/2025;218;1;Loja Física;Concluído;Cartão de crédito
+11213;17/06/2025;105;6;Televendas;Concluído;PIX
+11214;23/01/2025;85;3;Marketplace;Concluído;Cartão de débito
+11215;17/07/2025;149;3;Loja Física;Concluído;Cartão de débito
+11216;14/07/2026;323;1;Loja Física;Cancelado;Cartão de débito
+11217;20/08/2025;168;5;E-commerce;Em separação;Cartão de débito
+11218;17/07/2026;226;3;Televendas;Concluído;Cartão de crédito
+11219;04/07/2025;30;6;Televendas;Devolvido;PIX
+11220;09/02/2026;107;4;Marketplace;Concluído;PIX
+11221;17/01/2026;307;1;Televendas;Concluído;Cartão de crédito
+11222;05/11/2025;70;3;Marketplace;Concluído;Boleto
+11223;15/11/2025;162;4;Marketplace;Concluído;Cartão de débito
+11224;03/06/2026;312;1;Televendas;Concluído;Boleto
+11225;09/12/2025;310;5;Marketplace;Concluído;Cartão de crédito
+11226;02/05/2025;90;2;Marketplace;Concluído;Cartão de débito
+11227;13/04/2025;48;3;Marketplace;Concluído;Cartão de débito
+11228;16/01/2025;56;4;Televendas;Concluído;Cartão de débito
+11229;31/03/2026;7;3;Televendas;Concluído;Cartão de débito
+11230;15/09/2025;118;6;Televendas;Concluído;Cartão de débito
+11231;11/06/2026;90;3;E-commerce;Concluído;PIX
+11232;20/10/2025;334;4;Marketplace;Concluído;PIX
+11233;07/06/2025;230;3;Televendas;Concluído;Cartão de crédito
+11234;06/07/2026;195;6;E-commerce;Concluído;Cartão de débito
+11235;03/12/2025;326;2;Loja Física;Concluído;PIX
+11236;13/01/2025;19;6;Loja Física;Concluído;Cartão de débito
+11237;24/02/2025;273;2;Marketplace;Concluído;Cartão de débito
+11238;25/11/2025;124;6;Loja Física;Concluído;Cartão de débito
+11239;04/03/2025;157;3;Televendas;Concluído;PIX
+11240;16/09/2025;90;3;E-commerce;Em separação;PIX
+11241;10/06/2025;291;2;E-commerce;Concluído;Cartão de crédito
+11242;29/06/2025;2;1;Loja Física;Concluído;Cartão de débito
+11243;12/01/2025;281;1;Marketplace;Concluído;Cartão de débito
+11244;29/08/2025;284;3;Marketplace;Concluído;Cartão de crédito
+11245;22/05/2025;100;3;Marketplace;Concluído;Boleto
+11246;18/01/2025;235;4;E-commerce;Concluído;Boleto
+11247;04/02/2026;217;3;Loja Física;Concluído;Cartão de débito
+11248;09/07/2026;166;1;Televendas;Concluído;Boleto
+11249;02/07/2026;291;5;Televendas;Concluído;Cartão de débito
+11250;26/07/2026;285;5;Loja Física;Concluído;Cartão de débito
+11251;16/03/2026;93;3;Televendas;Cancelado;Cartão de débito
+11252;19/06/2026;296;5;E-commerce;Concluído;Boleto
+11253;13/01/2026;72;1;Televendas;Concluído;Boleto
+11254;03/04/2025;344;6;E-commerce;Concluído;Cartão de débito
+11255;30/08/2026;207;2;Televendas;Concluído;PIX
+11256;24/02/2025;136;6;Marketplace;Concluído;PIX
+11257;17/01/2026;249;1;Marketplace;Concluído;PIX
+11258;24/05/2026;1;6;Loja Física;Em separação;Cartão de crédito
+11259;17/12/2025;210;3;Loja Física;Concluído;PIX
+11260;02/12/2025;144;1;Loja Física;Concluído;PIX
+11261;16/03/2025;200;5;Marketplace;Concluído;Cartão de crédito
+11262;02/03/2025;47;1;Marketplace;Devolvido;PIX
+11263;24/02/2025;292;2;E-commerce;Concluído;Cartão de débito
+11264;16/01/2025;3;4;Marketplace;Em separação;Cartão de crédito
+11265;25/04/2026;212;5;E-commerce;Cancelado;Cartão de débito
+11266;12/06/2026;73;4;E-commerce;Concluído;Cartão de crédito
+11267;17/02/2026;114;6;E-commerce;Concluído;Boleto
+11268;07/03/2026;272;1;Televendas;Cancelado;Cartão de débito
+11269;16/07/2026;113;6;Marketplace;Em separação;PIX
+11270;08/07/2026;25;3;Marketplace;Concluído;Cartão de débito
+11271;30/07/2025;290;2;Loja Física;Concluído;Boleto
+11272;13/04/2025;43;1;Televendas;Concluído;Cartão de débito
+11273;26/05/2025;169;3;Televendas;Concluído;Cartão de crédito
+11274;19/11/2025;138;6;Loja Física;Concluído;Cartão de crédito
+11275;03/08/2026;183;1;Loja Física;Concluído;Cartão de débito
+11276;08/08/2025;94;3;Marketplace;Concluído;Boleto
+11277;13/04/2025;227;6;E-commerce;Cancelado;Cartão de débito
+11278;10/01/2026;330;1;E-commerce;Concluído;Cartão de crédito
+11279;10/08/2025;156;6;Loja Física;Concluído;Cartão de crédito
+11280;08/08/2025;220;1;Marketplace;Concluído;Boleto
+11281;28/06/2025;280;3;Marketplace;Concluído;PIX
+11282;07/08/2026;296;1;Loja Física;Concluído;Cartão de débito
+11283;26/03/2026;245;3;Loja Física;Concluído;PIX
+11284;19/08/2025;11;1;Televendas;Concluído;Cartão de débito
+11285;16/03/2025;253;2;Televendas;Concluído;PIX
+11286;13/08/2025;114;3;Marketplace;Cancelado;Cartão de crédito
+11287;08/03/2026;347;1;Marketplace;Concluído;Cartão de débito
+11288;07/01/2025;145;6;Marketplace;Em separação;Cartão de débito
+11289;31/08/2026;217;3;E-commerce;Concluído;PIX
+11290;14/04/2026;190;3;E-commerce;Concluído;Cartão de débito
+11291;07/01/2025;93;2;Televendas;Concluído;PIX
+11292;11/03/2025;181;5;Loja Física;Concluído;Cartão de débito
+11293;19/04/2025;58;5;Televendas;Concluído;Boleto
+11294;21/06/2025;49;4;Loja Física;Concluído;Boleto
+11295;15/07/2026;193;5;E-commerce;Concluído;Cartão de débito
+11296;22/05/2025;87;6;Televendas;Concluído;Cartão de crédito
+11297;19/05/2025;340;2;Loja Física;Concluído;Boleto
+11298;08/03/2026;185;5;E-commerce;Concluído;PIX
+11299;21/02/2025;142;6;E-commerce;Concluído;PIX
+11300;18/07/2025;22;2;Loja Física;Concluído;Cartão de crédito
+11301;22/08/2026;50;5;E-commerce;Concluído;Cartão de crédito
+11302;02/03/2026;350;6;Loja Física;Concluído;Cartão de débito
+11303;12/08/2025;62;1;Marketplace;Concluído;Boleto
+11304;04/06/2025;291;1;E-commerce;Em separação;Cartão de débito
+11305;28/01/2026;120;6;Televendas;Em separação;Cartão de crédito
+11306;10/11/2025;310;2;E-commerce;Concluído;Boleto
+11307;21/06/2025;233;2;E-commerce;Cancelado;Cartão de débito
+11308;19/09/2025;111;4;E-commerce;Em separação;Boleto
+11309;01/09/2026;317;1;Televendas;Concluído;PIX
+11310;18/05/2025;145;4;E-commerce;Cancelado;Cartão de crédito
+11311;10/01/2026;343;5;Televendas;Concluído;Boleto
+11312;16/02/2026;301;6;Marketplace;Concluído;Boleto
+11313;07/02/2026;198;6;Televendas;Devolvido;Cartão de crédito
+11314;10/11/2025;261;1;Marketplace;Concluído;Cartão de débito
+11315;03/04/2026;94;1;E-commerce;Concluído;Boleto
+11316;05/07/2025;198;1;Marketplace;Concluído;Boleto
+11317;21/11/2025;159;2;Loja Física;Concluído;Cartão de débito
+11318;05/05/2025;254;5;Marketplace;Em separação;PIX
+11319;03/04/2026;48;5;Marketplace;Concluído;PIX
+11320;26/05/2026;25;1;Televendas;Concluído;PIX
+11321;01/06/2025;114;4;Televendas;Concluído;Cartão de débito
+11322;04/07/2026;33;1;Marketplace;Concluído;Cartão de crédito
+11323;02/07/2025;66;1;Marketplace;Concluído;Cartão de débito
+11324;07/05/2025;112;4;Loja Física;Concluído;PIX
+11325;21/12/2025;180;6;E-commerce;Concluído;Cartão de débito
+11326;10/09/2025;177;2;Marketplace;Devolvido;Boleto
+11327;14/07/2025;268;5;E-commerce;Concluído;Boleto
+11328;19/07/2026;236;1;E-commerce;Concluído;Cartão de débito
+11329;26/01/2026;20;1;Loja Física;Concluído;PIX
+11330;22/03/2026;135;5;Marketplace;Concluído;Cartão de débito
+11331;06/06/2025;73;2;Loja Física;Concluído;Boleto
+11332;19/02/2026;30;4;E-commerce;Cancelado;Boleto
+11333;06/05/2026;126;1;Loja Física;Concluído;Boleto
+11334;02/06/2025;7;6;Loja Física;Concluído;Cartão de débito
+11335;08/08/2026;243;6;Marketplace;Concluído;Boleto
+11336;02/10/2025;37;1;Marketplace;Concluído;Boleto
+11337;14/08/2026;193;5;E-commerce;Concluído;Cartão de débito
+11338;24/05/2026;50;2;Loja Física;Concluído;Cartão de crédito
+11339;18/02/2026;237;5;Televendas;Concluído;Cartão de débito
+11340;09/07/2025;68;4;Televendas;Concluído;Cartão de crédito
+11341;09/08/2026;159;2;Loja Física;Concluído;Cartão de débito
+11342;12/06/2025;62;5;Loja Física;Concluído;Cartão de crédito
+11343;21/02/2025;1;2;Televendas;Devolvido;Cartão de débito
+11344;06/03/2026;104;4;Marketplace;Concluído;Cartão de crédito
+11345;26/08/2026;198;3;Televendas;Concluído;Cartão de débito
+11346;15/01/2026;304;4;Loja Física;Concluído;Boleto
+11347;28/02/2026;346;2;Televendas;Concluído;Cartão de crédito
+11348;16/10/2025;212;6;Televendas;Concluído;Boleto
+11349;27/08/2026;126;5;E-commerce;Cancelado;Boleto
+11350;29/07/2026;88;2;E-commerce;Concluído;Boleto
+11351;13/04/2025;128;2;Loja Física;Devolvido;Cartão de débito
+11352;01/12/2025;155;5;Marketplace;Concluído;Cartão de débito
+11353;06/11/2025;143;5;Televendas;Cancelado;Cartão de débito
+11354;04/08/2026;28;1;E-commerce;Em separação;Boleto
+11355;18/04/2026;171;4;Marketplace;Concluído;Cartão de débito
+11356;17/03/2026;41;5;E-commerce;Em separação;Boleto
+11357;18/07/2026;190;1;E-commerce;Concluído;PIX
+11358;19/07/2025;159;4;Marketplace;Concluído;Cartão de débito
+11359;01/06/2026;346;6;Televendas;Concluído;Cartão de crédito
+11360;18/11/2025;73;5;Marketplace;Concluído;Cartão de crédito
+11361;22/04/2026;135;2;Loja Física;Concluído;Boleto
+11362;18/02/2025;84;2;Marketplace;Concluído;Boleto
+11363;17/06/2026;79;5;E-commerce;Concluído;Cartão de crédito
+11364;24/08/2025;12;2;E-commerce;Concluído;Cartão de débito
+11365;22/12/2025;162;2;Loja Física;Concluído;Boleto
+11366;22/09/2025;250;2;E-commerce;Concluído;Boleto
+11367;17/01/2025;47;4;E-commerce;Em separação;PIX
+11368;14/07/2026;237;6;Loja Física;Cancelado;Cartão de débito
+11369;21/08/2025;275;4;E-commerce;Concluído;Cartão de débito
+11370;11/02/2025;300;6;Marketplace;Concluído;Boleto
+11371;10/07/2025;52;2;Loja Física;Concluído;Cartão de crédito
+11372;12/02/2025;121;6;Marketplace;Devolvido;Cartão de débito
+11373;12/05/2026;150;6;Loja Física;Concluído;PIX
+11374;02/07/2025;307;3;Loja Física;Concluído;PIX
+11375;11/04/2026;94;2;Loja Física;Concluído;Boleto
+11376;24/09/2025;303;6;Televendas;Cancelado;PIX
+11377;06/11/2025;227;1;Marketplace;Concluído;Cartão de débito
+11378;24/12/2025;37;5;Marketplace;Concluído;Cartão de débito
+11379;09/07/2025;232;4;Televendas;Concluído;PIX
+11380;24/12/2025;278;1;E-commerce;Concluído;PIX
+11381;04/06/2025;304;3;Loja Física;Concluído;Cartão de débito
+11382;19/08/2026;206;2;Televendas;Concluído;PIX
+11383;11/06/2026;14;6;Marketplace;Concluído;PIX
+11384;14/02/2025;140;5;E-commerce;Concluído;PIX
+11385;07/04/2025;89;1;Marketplace;Concluído;Cartão de crédito
+11386;17/04/2025;299;1;Marketplace;Concluído;Cartão de crédito
+11387;07/05/2026;126;3;Marketplace;Concluído;Cartão de débito
+11388;25/04/2025;313;2;;Concluído;PIX
+11389;07/03/2025;24;3;E-commerce;Concluído;PIX
+11390;05/08/2026;58;1;Televendas;Cancelado;Cartão de débito
+11391;24/06/2026;50;6;E-commerce;Concluído;PIX
+11392;19/03/2026;217;4;Loja Física;Concluído;PIX
+11393;15/06/2025;277;3;E-commerce;Concluído;PIX
+11394;01/12/2025;92;3;E-commerce;Cancelado;PIX
+11395;04/03/2026;316;2;Loja Física;Concluído;Cartão de débito
+11396;28/07/2025;110;4;Televendas;Em separação;Cartão de crédito
+11397;09/11/2025;56;1;Loja Física;Concluído;PIX
+11398;18/08/2025;179;2;Televendas;Concluído;Cartão de crédito
+11399;15/01/2026;298;2;Loja Física;Concluído;Cartão de crédito
+11400;24/04/2025;181;5;Televendas;Concluído;PIX
+11401;13/01/2026;205;5;Televendas;Concluído;Boleto
+11402;12/11/2025;316;5;E-commerce;Concluído;PIX
+11403;01/04/2026;138;6;Televendas;Concluído;Cartão de débito
+11404;14/04/2026;158;6;Televendas;Concluído;Boleto
+11405;06/09/2025;148;4;Marketplace;Concluído;Cartão de crédito
+11406;01/12/2025;88;1;Loja Física;Concluído;PIX
+11407;03/01/2026;267;1;E-commerce;Concluído;PIX
+11408;08/07/2026;283;2;Televendas;Concluído;Cartão de crédito
+11409;01/01/2025;109;1;Marketplace;Concluído;Cartão de débito
+11410;31/12/2025;331;2;Loja Física;Em separação;Boleto
+11411;30/05/2026;246;6;Loja Física;Concluído;Cartão de débito
+11412;14/03/2026;191;6;Loja Física;Concluído;Boleto
+11413;18/12/2025;217;5;Televendas;Concluído;Boleto
+11414;30/04/2025;166;3;Televendas;Cancelado;PIX
+11415;29/10/2025;226;1;Marketplace;Concluído;Cartão de débito
+11416;02/07/2026;116;3;Loja Física;Concluído;Cartão de crédito
+11417;27/02/2025;2;6;E-commerce;Concluído;PIX
+11418;31/08/2025;328;2;Televendas;Concluído;Cartão de débito
+11419;22/07/2026;167;2;E-commerce;Concluído;Boleto
+11420;02/12/2025;251;3;Loja Física;Concluído;Cartão de crédito
+11421;11/11/2025;138;4;E-commerce;Concluído;PIX
+11422;08/08/2026;236;2;Marketplace;Concluído;PIX
+11423;02/07/2026;16;2;E-commerce;Concluído;PIX
+11424;01/05/2026;260;5;E-commerce;Concluído;Cartão de crédito
+11425;06/03/2025;161;2;Loja Física;Concluído;Boleto
+11426;12/03/2026;245;2;Marketplace;Concluído;Cartão de débito
+11427;20/05/2025;301;5;Marketplace;Cancelado;Cartão de débito
+11428;22/07/2026;175;4;E-commerce;Concluído;PIX
+11429;24/06/2025;334;3;Televendas;Concluído;Boleto
+11430;10/05/2025;266;6;Loja Física;Cancelado;Cartão de crédito
+11431;17/03/2025;71;3;E-commerce;Concluído;Cartão de débito
+11432;18/08/2026;271;3;Marketplace;Em separação;Cartão de crédito
+11433;11/08/2025;327;1;E-commerce;Concluído;Boleto
+11434;10/08/2026;323;2;Loja Física;Concluído;Cartão de crédito
+11435;17/11/2025;259;5;Loja Física;Concluído;Cartão de débito
+11436;09/02/2026;11;6;Loja Física;Concluído;PIX
+11437;09/05/2025;294;4;Marketplace;Concluído;Boleto
+11438;14/04/2025;258;6;Loja Física;Concluído;Boleto
+11439;18/04/2026;106;4;Loja Física;Em separação;Cartão de débito
+11440;24/12/2025;261;6;Televendas;Concluído;PIX
+11441;03/04/2025;188;6;Marketplace;Concluído;PIX
+11442;03/09/2025;300;4;E-commerce;Concluído;Cartão de crédito
+11443;13/02/2025;338;2;E-commerce;Concluído;PIX
+11444;26/03/2025;194;3;Marketplace;Concluído;Cartão de débito
+11445;18/04/2026;166;6;E-commerce;Concluído;Boleto
+11446;28/09/2025;74;4;Televendas;Concluído;PIX
+11447;05/10/2025;233;1;E-commerce;Concluído;PIX
+11448;05/03/2026;254;4;Marketplace;Concluído;Cartão de crédito
+11449;24/11/2025;180;1;E-commerce;Cancelado;Boleto
+11450;19/04/2025;197;3;Loja Física;Concluído;PIX
+11451;27/04/2026;227;6;Marketplace;Devolvido;PIX
+11452;07/04/2025;120;6;Loja Física;Concluído;Cartão de crédito
+11453;24/12/2025;136;2;Loja Física;Em separação;Cartão de crédito
+11454;07/04/2026;237;2;Loja Física;Concluído;Boleto
+11455;22/05/2026;303;6;Marketplace;Concluído;PIX
+11456;10/05/2026;316;3;Loja Física;Em separação;PIX
+11457;26/07/2026;244;2;Televendas;Devolvido;Cartão de débito
+11458;09/07/2025;149;1;Marketplace;Cancelado;PIX
+11459;09/11/2025;196;5;Televendas;Concluído;Cartão de débito
+11460;23/06/2025;29;2;Loja Física;Concluído;Boleto
+11461;21/07/2025;210;5;Loja Física;Concluído;Cartão de débito
+11462;10/08/2025;316;4;Loja Física;Concluído;Cartão de crédito
+11463;04/02/2026;254;2;E-commerce;Concluído;Boleto
+11464;01/05/2026;4;4;Marketplace;Concluído;Cartão de débito
+11465;28/10/2025;68;2;Marketplace;Concluído;Cartão de débito
+11466;25/08/2026;139;1;E-commerce;Em separação;Cartão de crédito
+11467;07/07/2025;216;6;Marketplace;Concluído;PIX
+11468;25/07/2026;13;6;E-commerce;Concluído;Boleto
+11469;24/11/2025;275;5;Loja Física;Concluído;Cartão de débito
+11470;24/01/2026;31;1;Marketplace;Concluído;Boleto
+11471;25/07/2026;46;5;Loja Física;Concluído;Cartão de débito
+11472;26/06/2026;104;4;E-commerce;Cancelado;Boleto
+11473;01/06/2026;81;1;E-commerce;Concluído;Cartão de débito
+11474;01/06/2025;8;3;Marketplace;Concluído;PIX
+11475;26/10/2025;207;4;E-commerce;Concluído;Cartão de crédito
+11476;03/04/2025;63;3;Loja Física;Concluído;Cartão de crédito
+11477;29/01/2026;291;6;E-commerce;Cancelado;PIX
+11478;11/12/2025;154;5;Loja Física;Em separação;Cartão de débito
+11479;10/04/2025;126;4;Loja Física;Em separação;Cartão de crédito
+11480;13/11/2025;77;1;E-commerce;Concluído;Cartão de crédito
+11481;12/10/2025;212;4;Loja Física;Concluído;Cartão de débito
+11482;08/04/2025;30;5;E-commerce;Concluído;Cartão de crédito
+11483;16/08/2025;263;4;Marketplace;Devolvido;PIX
+11484;17/07/2025;211;3;E-commerce;Em separação;PIX
+11485;06/12/2025;55;5;Loja Física;Concluído;Cartão de crédito
+11486;28/04/2025;17;1;Televendas;Concluído;PIX
+11487;25/02/2025;44;2;E-commerce;Concluído;Cartão de débito
+11488;29/06/2025;103;2;Televendas;Concluído;Cartão de crédito
+11489;25/05/2026;220;4;Marketplace;Concluído;Boleto
+11490;04/11/2025;197;1;Loja Física;Concluído;Boleto
+11491;19/05/2026;77;3;E-commerce;Concluído;Cartão de débito
+11492;23/06/2025;84;3;Loja Física;Concluído;PIX
+11493;10/10/2025;40;5;Televendas;Cancelado;Cartão de débito
+11494;16/01/2025;19;4;Loja Física;Concluído;Boleto
+11495;15/07/2026;79;1;E-commerce;Concluído;Cartão de débito
+11496;11/10/2025;145;6;Loja Física;Concluído;Cartão de crédito
+11497;24/08/2026;148;5;E-commerce;Concluído;Boleto
+11498;15/01/2026;160;2;Marketplace;Concluído;PIX
+11499;25/06/2026;218;1;E-commerce;Concluído;Cartão de crédito
+11500;20/02/2025;42;1;Marketplace;Concluído;Cartão de crédito
+11501;24/05/2026;51;5;Televendas;Concluído;Cartão de débito
+11502;09/06/2025;182;6;Loja Física;Concluído;Boleto
+11503;23/04/2026;269;3;Marketplace;Em separação;Cartão de crédito
+11504;17/08/2025;173;5;E-commerce;Concluído;Cartão de crédito
+11505;21/08/2025;240;1;Televendas;Concluído;Cartão de crédito
+11506;13/05/2025;104;6;Televendas;Concluído;Cartão de débito
+11507;21/08/2025;21;4;Televendas;Concluído;Cartão de crédito
+11508;16/01/2025;345;6;Marketplace;Concluído;Cartão de débito
+11509;28/10/2025;100;2;E-commerce;Cancelado;PIX
+11510;19/07/2026;181;4;Marketplace;Concluído;Cartão de débito
+11511;01/01/2026;34;4;Loja Física;Concluído;Boleto
+11512;29/05/2025;199;1;Loja Física;Concluído;Cartão de crédito
+11513;16/10/2025;109;6;Loja Física;Concluído;PIX
+11514;11/01/2025;155;1;Televendas;Concluído;Cartão de crédito
+11515;31/05/2025;52;3;Loja Física;Concluído;Boleto
+11516;18/01/2025;61;3;Televendas;Concluído;PIX
+11517;21/05/2025;280;1;Televendas;Em separação;Boleto
+11518;31/07/2026;255;5;Loja Física;Concluído;Boleto
+11519;18/04/2026;83;2;Televendas;Concluído;Boleto
+11520;08/03/2025;227;1;Loja Física;Concluído;Cartão de crédito
+11521;22/11/2025;158;2;Loja Física;Concluído;Cartão de débito
+11522;31/07/2026;89;3;Marketplace;Concluído;Cartão de débito
+11523;22/01/2026;350;2;E-commerce;Concluído;Cartão de crédito
+11524;22/05/2025;184;5;E-commerce;Concluído;Cartão de débito
+11525;09/12/2025;190;2;Marketplace;Concluído;Cartão de crédito
+11526;06/04/2026;220;3;Loja Física;Concluído;Boleto
+11527;24/08/2026;15;2;Marketplace;Concluído;PIX
+11528;09/05/2026;53;1;Loja Física;Cancelado;Boleto
+11529;20/07/2026;207;5;E-commerce;Concluído;PIX
+11530;01/08/2025;300;2;E-commerce;Concluído;PIX
+11531;09/03/2026;280;1;Loja Física;Concluído;Cartão de crédito
+11532;17/12/2025;6;1;Marketplace;Concluído;PIX
+11533;15/08/2026;115;1;Televendas;Concluído;Boleto
+11534;18/07/2026;167;1;E-commerce;Concluído;PIX
+11535;13/06/2025;294;1;Televendas;Concluído;Cartão de crédito
+11536;06/12/2025;88;4;E-commerce;Concluído;Boleto
+11537;01/01/2025;259;5;Televendas;Concluído;Cartão de crédito
+11538;17/02/2025;85;2;Loja Física;Em separação;Boleto
+11539;22/08/2026;116;2;E-commerce;Concluído;PIX
+11540;07/06/2025;192;6;Marketplace;Concluído;Cartão de crédito
+11541;12/12/2025;146;3;;Concluído;Cartão de débito
+11542;30/08/2026;219;2;Loja Física;Concluído;Cartão de crédito
+11543;28/02/2025;228;3;Televendas;Concluído;PIX
+11544;16/02/2026;102;1;Televendas;Concluído;Boleto
+11545;17/12/2025;319;1;E-commerce;Concluído;Cartão de débito
+11546;26/08/2025;206;2;Televendas;Cancelado;Boleto
+11547;28/01/2025;3;5;E-commerce;Concluído;Boleto
+11548;30/12/2025;6;3;Loja Física;Concluído;PIX
+11549;01/09/2025;342;1;Televendas;Concluído;Cartão de débito
+11550;15/05/2025;79;1;E-commerce;Concluído;Boleto
+11551;20/05/2026;22;4;Televendas;Concluído;PIX
+11552;29/12/2025;49;3;Loja Física;Concluído;Cartão de débito
+11553;09/07/2026;88;3;Televendas;Concluído;Cartão de débito
+11554;09/05/2025;338;5;E-commerce;Concluído;PIX
+11555;09/01/2025;55;5;E-commerce;Concluído;Cartão de débito
+11556;04/07/2025;331;1;Loja Física;Cancelado;PIX
+11557;01/09/2026;6;1;Televendas;Concluído;Cartão de débito
+11558;26/09/2025;176;1;Marketplace;Concluído;PIX
+11559;10/02/2025;10;6;E-commerce;Concluído;Cartão de crédito
+11560;25/07/2025;276;5;E-commerce;Concluído;Boleto
+11561;08/02/2025;165;4;Marketplace;Concluído;Cartão de débito
+11562;05/02/2026;145;2;Marketplace;Concluído;Boleto
+11563;31/05/2025;115;6;Loja Física;Concluído;PIX
+11564;22/10/2025;60;6;E-commerce;Concluído;Cartão de débito
+11565;16/02/2025;143;4;Loja Física;Concluído;Boleto
+11566;30/03/2025;254;5;E-commerce;Concluído;PIX
+11567;01/04/2026;158;3;Marketplace;Concluído;Cartão de débito
+11568;03/02/2026;294;3;Televendas;Concluído;Cartão de crédito
+11569;21/05/2025;215;5;Loja Física;Concluído;Cartão de débito
+11570;04/01/2025;305;3;E-commerce;Concluído;Boleto
+11571;17/01/2025;17;5;E-commerce;Concluído;Cartão de crédito
+11572;26/09/2025;142;2;Televendas;Concluído;Cartão de débito
+11573;26/12/2025;213;3;Televendas;Cancelado;PIX
+11574;02/06/2025;232;4;E-commerce;Concluído;Cartão de crédito
+11575;11/04/2026;333;5;Televendas;Concluído;PIX
+11576;01/10/2025;218;5;E-commerce;Concluído;Cartão de débito
+11577;12/08/2026;329;3;Loja Física;Concluído;Cartão de débito
+11578;23/06/2025;264;6;Televendas;Devolvido;Cartão de crédito
+11579;26/09/2025;332;5;Televendas;Concluído;Cartão de crédito
+11580;16/01/2025;243;2;E-commerce;Concluído;Cartão de crédito
+11581;27/08/2025;238;1;Televendas;Concluído;Cartão de crédito
+11582;29/08/2025;45;6;E-commerce;Em separação;Boleto
+11583;05/03/2026;231;1;Televendas;Concluído;Cartão de crédito
+11584;26/08/2025;288;5;Marketplace;Concluído;PIX
+11585;19/03/2025;239;6;Loja Física;Concluído;Cartão de crédito
+11586;18/08/2026;337;2;Loja Física;Concluído;PIX
+11587;07/07/2026;17;5;Loja Física;Concluído;Cartão de débito
+11588;03/11/2025;270;3;Loja Física;Concluído;Cartão de crédito
+11589;07/07/2026;2;4;Loja Física;Concluído;Cartão de débito
+11590;06/02/2026;68;1;Loja Física;Concluído;Cartão de crédito
+11591;19/07/2025;345;3;Marketplace;Concluído;Boleto
+11592;27/05/2025;153;2;Marketplace;Concluído;Cartão de crédito
+11593;08/01/2026;128;1;E-commerce;Concluído;Boleto
+11594;12/11/2025;22;3;Marketplace;Concluído;Cartão de débito
+11595;14/02/2026;140;5;E-commerce;Concluído;Cartão de débito
+11596;26/06/2026;209;3;Loja Física;Concluído;Boleto
+11597;29/01/2026;214;4;Loja Física;Devolvido;Cartão de débito
+11598;08/06/2025;302;6;E-commerce;Concluído;Cartão de débito
+11599;18/09/2025;269;2;Loja Física;Concluído;Boleto
+11600;28/03/2025;80;2;Televendas;Concluído;Cartão de crédito
+11601;23/04/2026;205;2;Loja Física;Em separação;Boleto
+11602;02/05/2025;9;2;Televendas;Concluído;Cartão de débito
+11603;28/01/2026;153;2;E-commerce;Concluído;Cartão de crédito
+11604;01/02/2025;292;4;Televendas;Concluído;Cartão de crédito
+11605;14/01/2026;206;5;E-commerce;Cancelado;Cartão de crédito
+11606;06/06/2025;334;6;Marketplace;Cancelado;Cartão de crédito
+11607;18/07/2025;247;6;Marketplace;Cancelado;Cartão de crédito
+11608;21/07/2025;329;2;Loja Física;Concluído;Boleto
+11609;03/07/2025;24;2;Marketplace;Cancelado;Cartão de crédito
+11610;08/07/2025;151;3;Marketplace;Cancelado;Boleto
+11611;31/03/2026;274;4;E-commerce;Concluído;Boleto
+11612;28/02/2026;165;1;Loja Física;Concluído;Cartão de crédito
+11613;28/01/2026;99;3;Loja Física;Concluído;Cartão de crédito
+11614;24/09/2025;139;6;Televendas;Concluído;PIX
+11615;30/04/2026;2;1;Marketplace;Concluído;PIX
+11616;01/05/2025;277;3;Loja Física;Devolvido;PIX
+11617;27/01/2026;202;2;Loja Física;Concluído;Boleto
+11618;13/12/2025;47;4;Marketplace;Concluído;PIX
+11619;25/04/2026;154;3;Loja Física;Concluído;Cartão de crédito
+11620;05/04/2025;277;6;Marketplace;Cancelado;Cartão de crédito
+11621;04/02/2026;194;1;Loja Física;Concluído;Boleto
+11622;17/02/2026;17;3;Televendas;Concluído;PIX
+11623;04/05/2026;140;3;Marketplace;Concluído;Cartão de crédito
+11624;10/08/2026;174;6;E-commerce;Concluído;Cartão de débito
+11625;22/05/2025;197;1;Marketplace;Concluído;Boleto
+11626;10/02/2026;123;4;Loja Física;Concluído;PIX
+11627;13/07/2026;301;1;Loja Física;Cancelado;Cartão de crédito
+11628;31/08/2025;328;1;E-commerce;Concluído;Cartão de crédito
+11629;25/08/2025;58;5;E-commerce;Devolvido;Cartão de crédito
+11630;14/02/2025;69;4;Marketplace;Em separação;Cartão de débito
+11631;16/10/2025;147;3;E-commerce;Concluído;Cartão de crédito
+11632;03/02/2026;179;6;Marketplace;Concluído;Boleto
+11633;22/05/2026;27;3;Televendas;Concluído;PIX
+11634;17/01/2025;68;2;Marketplace;Concluído;Cartão de crédito
+11635;03/04/2025;217;4;Loja Física;Concluído;Cartão de crédito
+11636;28/08/2026;168;3;Televendas;Concluído;Cartão de crédito
+11637;23/03/2025;330;5;Televendas;Concluído;Boleto
+11638;27/07/2026;236;4;Loja Física;Concluído;Cartão de débito
+11639;05/05/2026;243;6;Loja Física;Concluído;PIX
+11640;27/01/2025;309;3;Televendas;Concluído;PIX
+11641;17/05/2025;108;5;Televendas;Concluído;Cartão de crédito
+11642;17/04/2026;193;5;E-commerce;Concluído;Cartão de débito
+11643;23/01/2025;295;1;Marketplace;Concluído;Cartão de crédito
+11644;29/06/2025;265;3;Marketplace;Concluído;Boleto
+11645;17/12/2025;65;4;Loja Física;Em separação;Cartão de débito
+11646;07/02/2026;146;2;E-commerce;Concluído;PIX
+11647;12/02/2026;206;3;Televendas;Concluído;Cartão de débito
+11648;01/09/2025;194;1;Marketplace;Concluído;PIX
+11649;23/05/2026;139;1;Televendas;Concluído;Boleto
+11650;17/03/2026;82;1;Loja Física;Concluído;Cartão de débito
+11651;26/02/2026;37;3;Televendas;Concluído;Cartão de débito
+11652;12/05/2026;295;5;Marketplace;Cancelado;Cartão de crédito
+11653;15/01/2025;145;5;E-commerce;Concluído;Cartão de débito
+11654;01/07/2026;334;1;Loja Física;Concluído;Boleto
+11655;21/05/2025;99;5;Marketplace;Em separação;Boleto
+11656;19/05/2026;33;5;E-commerce;Em separação;PIX
+11657;14/07/2026;149;1;Televendas;Concluído;Cartão de débito
+11658;13/08/2026;329;3;Televendas;Concluído;Boleto
+11659;05/09/2025;2;5;Televendas;Concluído;Cartão de débito
+11660;11/08/2026;73;4;Loja Física;Concluído;PIX
+11661;23/11/2025;231;6;Televendas;Em separação;Boleto
+11662;06/01/2025;4;1;Televendas;Concluído;Boleto
+11663;06/11/2025;134;1;Televendas;Em separação;Cartão de crédito
+11664;09/06/2026;120;3;Televendas;Cancelado;Cartão de crédito
+11665;26/02/2026;32;2;Loja Física;Concluído;Boleto
+11666;17/08/2025;16;5;Marketplace;Concluído;PIX
+11667;14/05/2026;70;3;;Devolvido;Boleto
+11668;04/10/2025;270;1;Marketplace;Concluído;Cartão de crédito
+11669;20/01/2025;173;5;Loja Física;Concluído;Cartão de débito
+11670;04/10/2025;76;6;Loja Física;Concluído;Cartão de crédito
+11671;07/06/2025;21;2;Loja Física;Concluído;Cartão de débito
+11672;01/10/2025;268;6;E-commerce;Concluído;PIX
+11673;08/09/2025;332;2;E-commerce;Devolvido;Cartão de débito
+11674;14/10/2025;85;4;Televendas;Cancelado;Boleto
+11675;17/02/2026;94;5;E-commerce;Concluído;Cartão de crédito
+11676;26/01/2026;186;3;Marketplace;Concluído;Cartão de crédito
+11677;25/06/2025;117;4;Loja Física;Concluído;Cartão de débito
+11678;15/10/2025;239;4;Marketplace;Concluído;Cartão de crédito
+11679;04/08/2025;237;5;Loja Física;Concluído;Cartão de crédito
+11680;04/02/2026;86;4;E-commerce;Concluído;Cartão de débito
+11681;28/04/2025;324;6;Loja Física;Concluído;Boleto
+11682;13/04/2025;80;5;Televendas;Cancelado;Cartão de crédito
+11683;07/02/2025;61;1;Televendas;Concluído;PIX
+11684;08/11/2025;312;4;Loja Física;Concluído;Boleto
+11685;08/06/2026;315;4;E-commerce;Devolvido;PIX
+11686;12/08/2025;52;3;Marketplace;Concluído;Cartão de crédito
+11687;16/08/2025;265;3;Marketplace;Concluído;Boleto
+11688;15/04/2025;79;2;Marketplace;Cancelado;PIX
+11689;07/04/2026;317;4;Loja Física;Cancelado;PIX
+11690;26/10/2025;135;4;Televendas;Concluído;Boleto
+11691;14/03/2026;153;1;Loja Física;Concluído;PIX
+11692;10/01/2026;232;6;E-commerce;Concluído;PIX
+11693;08/11/2025;329;2;E-commerce;Concluído;Boleto
+11694;17/01/2026;36;5;Marketplace;Concluído;Boleto
+11695;04/11/2025;150;4;Televendas;Concluído;Cartão de débito
+11696;26/03/2025;322;4;Marketplace;Concluído;Cartão de crédito
+11697;21/10/2025;51;2;Marketplace;Cancelado;Cartão de débito
+11698;09/05/2025;275;4;Marketplace;Concluído;PIX
+11699;31/01/2025;295;6;Televendas;Concluído;PIX
+11700;22/01/2026;232;4;Loja Física;Concluído;Cartão de débito
+11701;18/05/2025;66;2;E-commerce;Concluído;Cartão de crédito
+11702;22/07/2026;114;4;Televendas;Concluído;Cartão de crédito
+11703;15/03/2025;168;2;Marketplace;Concluído;Cartão de débito
+11704;18/06/2025;109;2;Marketplace;Concluído;Boleto
+11705;24/01/2026;112;1;Marketplace;Concluído;Cartão de débito
+11706;05/04/2025;153;5;Loja Física;Concluído;Boleto
+11707;18/12/2025;33;6;E-commerce;Cancelado;Boleto
+11708;04/11/2025;241;2;E-commerce;Concluído;Boleto
+11709;02/06/2025;184;1;Loja Física;Concluído;Cartão de débito
+11710;23/05/2026;334;4;Televendas;Concluído;PIX
+11711;22/02/2025;31;1;Televendas;Devolvido;Cartão de crédito
+11712;27/02/2026;88;6;Loja Física;Em separação;Cartão de crédito
+11713;11/04/2026;28;4;Loja Física;Concluído;Cartão de débito
+11714;03/07/2025;101;1;Televendas;Concluído;PIX
+11715;10/12/2025;10;6;Marketplace;Em separação;PIX
+11716;18/02/2026;210;4;Loja Física;Concluído;Cartão de crédito
+11717;16/06/2026;73;2;E-commerce;Cancelado;Boleto
+11718;25/08/2026;67;2;E-commerce;Concluído;Cartão de débito
+11719;27/04/2025;107;3;Marketplace;Concluído;Cartão de crédito
+11720;08/08/2025;82;2;Marketplace;Concluído;Cartão de débito
+11721;06/01/2025;89;3;Televendas;Concluído;Boleto
+11722;30/04/2026;321;2;Marketplace;Concluído;Boleto
+11723;09/12/2025;91;4;Televendas;Concluído;Boleto
+11724;11/06/2025;190;2;Loja Física;Concluído;Cartão de débito
+11725;08/02/2026;223;6;Marketplace;Concluído;Boleto
+11726;14/08/2026;283;3;E-commerce;Concluído;PIX
+11727;15/07/2026;115;3;Marketplace;Concluído;Boleto
+11728;31/10/2025;290;4;E-commerce;Concluído;Cartão de crédito
+11729;24/01/2025;255;2;Televendas;Concluído;Cartão de crédito
+11730;31/01/2026;141;5;E-commerce;Concluído;Cartão de crédito
+11731;12/10/2025;74;6;E-commerce;Concluído;Boleto
+11732;04/11/2025;6;2;Televendas;Cancelado;Boleto
+11733;28/01/2026;150;5;Televendas;Concluído;Cartão de débito
+11734;08/08/2026;15;1;Televendas;Concluído;PIX
+11735;06/03/2026;247;6;E-commerce;Em separação;Boleto
+11736;13/07/2026;136;1;Loja Física;Em separação;Cartão de débito
+11737;27/03/2025;13;1;Marketplace;Concluído;PIX
+11738;04/03/2026;61;4;Loja Física;Concluído;Cartão de crédito
+11739;25/07/2025;133;5;Marketplace;Concluído;Boleto
+11740;05/05/2026;290;6;Loja Física;Concluído;Cartão de crédito
+11741;30/03/2025;254;1;E-commerce;Cancelado;Cartão de crédito
+11742;23/07/2026;336;1;Marketplace;Concluído;PIX
+11743;29/10/2025;220;2;Loja Física;Concluído;Cartão de crédito
+11744;24/01/2026;63;5;Marketplace;Concluído;PIX
+11745;19/03/2025;122;1;Marketplace;Concluído;Cartão de crédito
+11746;29/06/2025;336;4;Marketplace;Em separação;Cartão de crédito
+11747;21/08/2026;278;5;Marketplace;Concluído;Boleto
+11748;15/12/2025;222;4;Marketplace;Em separação;Cartão de débito
+11749;05/04/2026;327;6;Loja Física;Concluído;Cartão de débito
+11750;29/10/2025;335;3;Loja Física;Cancelado;Cartão de crédito
+11751;26/02/2026;210;5;Loja Física;Concluído;Cartão de crédito
+11752;15/06/2025;72;2;E-commerce;Concluído;PIX
+11753;09/06/2025;270;2;Marketplace;Devolvido;Boleto
+11754;22/07/2026;138;4;Loja Física;Concluído;Cartão de crédito
+11755;18/11/2025;100;3;Televendas;Em separação;PIX
+11756;04/01/2026;251;5;Loja Física;Concluído;Cartão de débito
+11757;04/11/2025;53;5;Marketplace;Em separação;Boleto
+11758;08/04/2025;336;3;Marketplace;Concluído;Cartão de débito
+11759;24/01/2025;198;2;Marketplace;Concluído;Cartão de crédito
+11760;01/04/2026;129;2;Televendas;Concluído;Cartão de crédito
+11761;12/07/2026;143;2;Loja Física;Cancelado;Cartão de débito
+11762;17/06/2026;312;5;Televendas;Concluído;Cartão de crédito
+11763;04/09/2025;120;4;Marketplace;Concluído;Cartão de crédito
+11764;01/03/2026;48;2;Televendas;Concluído;Cartão de crédito
+11765;06/05/2026;205;5;E-commerce;Concluído;Cartão de débito
+11766;04/09/2025;73;3;E-commerce;Concluído;Cartão de crédito
+11767;10/05/2025;158;1;Marketplace;Concluído;Cartão de débito
+11768;15/04/2026;145;5;Loja Física;Concluído;Cartão de débito
+11769;26/10/2025;184;2;E-commerce;Cancelado;Boleto
+11770;22/03/2026;201;2;Loja Física;Concluído;Cartão de crédito
+11771;03/05/2025;184;6;E-commerce;Concluído;Cartão de débito
+11772;10/06/2025;257;1;Marketplace;Concluído;Boleto
+11773;08/04/2025;344;5;Loja Física;Concluído;PIX
+11774;05/03/2025;2;1;Loja Física;Concluído;Boleto
+11775;13/11/2025;2;6;Televendas;Concluído;PIX
+11776;26/03/2025;198;6;Televendas;Concluído;Cartão de crédito
+11777;30/10/2025;181;2;Loja Física;Em separação;Cartão de débito
+11778;13/08/2026;82;5;Loja Física;Cancelado;Boleto
+11779;05/05/2026;321;5;Televendas;Concluído;Cartão de débito
+11780;23/01/2026;326;5;Marketplace;Concluído;Boleto
+11781;08/09/2025;233;3;E-commerce;Concluído;PIX
+11782;30/05/2026;195;4;E-commerce;Concluído;Cartão de débito
+11783;16/12/2025;108;5;E-commerce;Concluído;Cartão de crédito
+11784;14/08/2025;189;1;E-commerce;Concluído;Boleto
+11785;26/04/2026;211;3;Televendas;Concluído;Cartão de débito
+11786;23/01/2025;158;4;E-commerce;Concluído;Cartão de débito
+11787;27/05/2025;345;1;Televendas;Concluído;Cartão de débito
+11788;22/05/2025;38;2;Loja Física;Concluído;Boleto
+11789;27/10/2025;253;4;Loja Física;Concluído;Boleto
+11790;27/06/2026;69;1;Marketplace;Concluído;PIX
+11791;04/10/2025;163;1;Televendas;Concluído;Cartão de débito
+11792;13/08/2025;344;2;Televendas;Concluído;Cartão de crédito
+11793;28/01/2025;26;6;Marketplace;Concluído;Boleto
+11794;10/03/2026;232;6;Televendas;Concluído;PIX
+11795;22/03/2026;307;2;Loja Física;Concluído;Boleto
+11796;21/02/2025;335;1;Loja Física;Concluído;Boleto
+11797;10/08/2025;269;6;Loja Física;Concluído;Cartão de crédito
+11798;07/03/2025;179;4;Televendas;Em separação;Boleto
+11799;19/06/2026;325;6;Loja Física;Concluído;PIX
+11800;26/01/2026;145;4;Loja Física;Concluído;Cartão de débito
+11801;24/06/2026;287;6;E-commerce;Concluído;Cartão de crédito
+11802;26/03/2026;183;5;E-commerce;Concluído;PIX
+11803;10/03/2025;302;3;Televendas;Concluído;PIX
+11804;02/02/2026;205;6;E-commerce;Concluído;Cartão de débito
+11805;02/08/2025;3;2;Loja Física;Concluído;Boleto
+11806;17/03/2026;304;5;E-commerce;Concluído;Cartão de crédito
+11807;05/01/2025;279;4;E-commerce;Em separação;Cartão de crédito
+11808;12/04/2026;60;1;Marketplace;Concluído;PIX
+11809;13/10/2025;73;2;Marketplace;Concluído;Cartão de débito
+11810;03/04/2026;241;1;Televendas;Em separação;Cartão de débito
+11811;21/03/2026;180;4;Televendas;Concluído;Cartão de débito
+11812;17/01/2025;9;5;Marketplace;Concluído;Boleto
+11813;25/07/2025;94;2;Loja Física;Concluído;Boleto
+11814;05/05/2026;344;2;Televendas;Concluído;Cartão de crédito
+11815;14/02/2025;36;4;E-commerce;Concluído;Cartão de crédito
+11816;09/08/2026;107;6;;Cancelado;Boleto
+11817;11/07/2025;56;3;Televendas;Concluído;Cartão de crédito
+11818;03/09/2025;80;1;E-commerce;Concluído;Cartão de débito
+11819;06/07/2026;171;3;E-commerce;Devolvido;Cartão de débito
+11820;20/02/2025;45;3;Televendas;Concluído;Boleto
+11821;14/10/2025;107;2;Televendas;Cancelado;Cartão de débito
+11822;07/03/2026;336;2;Televendas;Concluído;PIX
+11823;08/02/2025;302;1;E-commerce;Concluído;Cartão de débito
+11824;29/06/2026;23;2;E-commerce;Concluído;Boleto
+11825;04/07/2025;320;6;Loja Física;Concluído;PIX
+11826;31/03/2026;214;4;Loja Física;Concluído;Cartão de débito
+11827;09/08/2026;156;4;Marketplace;Concluído;Cartão de crédito
+11828;08/09/2025;5;5;Televendas;Concluído;PIX
+11829;31/12/2025;332;1;Loja Física;Concluído;Cartão de débito
+11830;19/03/2026;279;5;Marketplace;Concluído;Cartão de débito
+11831;19/03/2026;223;4;Loja Física;Concluído;PIX
+11832;20/04/2026;150;5;E-commerce;Concluído;Cartão de crédito
+11833;27/11/2025;309;4;Televendas;Concluído;PIX
+11834;01/02/2026;169;4;E-commerce;Concluído;PIX
+11835;23/06/2026;220;1;Loja Física;Cancelado;Boleto
+11836;26/09/2025;139;5;E-commerce;Concluído;Cartão de débito
+11837;15/12/2025;325;1;Loja Física;Concluído;Cartão de débito
+11838;24/01/2025;206;6;Marketplace;Concluído;PIX
+11839;29/07/2026;9;4;E-commerce;Cancelado;Cartão de crédito
+11840;26/04/2026;326;3;Loja Física;Concluído;Boleto
+11841;25/01/2026;278;4;E-commerce;Concluído;Boleto
+11842;05/03/2026;182;5;E-commerce;Concluído;Boleto
+11843;13/06/2025;214;4;E-commerce;Concluído;Cartão de débito
+11844;05/01/2025;261;5;Marketplace;Concluído;Cartão de débito
+11845;12/12/2025;275;1;Marketplace;Concluído;Boleto
+11846;09/01/2025;27;4;E-commerce;Concluído;PIX
+11847;17/05/2026;73;5;Marketplace;Concluído;Boleto
+11848;06/03/2025;216;2;Marketplace;Concluído;Boleto
+11849;05/01/2025;154;3;Loja Física;Concluído;Cartão de crédito
+11850;27/08/2025;115;4;Marketplace;Concluído;Cartão de crédito
+11851;13/08/2026;15;3;E-commerce;Concluído;PIX
+11852;26/06/2026;99;5;Marketplace;Concluído;Boleto
+11853;11/02/2025;310;6;Loja Física;Concluído;Boleto
+11854;19/12/2025;184;3;E-commerce;Concluído;Cartão de crédito
+11855;30/03/2025;342;3;Televendas;Concluído;Cartão de débito
+11856;11/06/2026;132;5;Loja Física;Concluído;Cartão de débito
+11857;11/12/2025;38;4;Televendas;Em separação;Boleto
+11858;05/03/2026;226;2;Loja Física;Em separação;PIX
+11859;26/10/2025;333;2;Loja Física;Concluído;PIX
+11860;29/03/2026;194;4;E-commerce;Concluído;Cartão de crédito
+11861;20/10/2025;322;3;E-commerce;Em separação;PIX
+11862;23/08/2026;248;4;Loja Física;Concluído;Cartão de crédito
+11863;14/12/2025;33;4;E-commerce;Cancelado;Cartão de crédito
+11864;10/09/2025;204;5;Loja Física;Concluído;Cartão de débito
+11865;21/05/2025;290;5;Televendas;Concluído;Cartão de débito
+11866;18/09/2025;141;3;Loja Física;Concluído;PIX
+11867;18/06/2026;125;5;Televendas;Concluído;Cartão de crédito
+11868;14/02/2026;232;4;Loja Física;Concluído;Cartão de crédito
+11869;12/03/2025;275;6;E-commerce;Concluído;Cartão de débito
+11870;17/07/2026;341;2;Televendas;Concluído;Cartão de crédito
+11871;11/04/2025;121;5;E-commerce;Concluído;PIX
+11872;01/02/2026;268;1;Televendas;Concluído;Cartão de crédito
+11873;06/05/2026;126;6;Televendas;Concluído;Cartão de débito
+11874;13/04/2025;26;4;Loja Física;Concluído;Cartão de débito
+11875;17/04/2025;93;2;Televendas;Concluído;Boleto
+11876;24/03/2025;319;3;Marketplace;Concluído;Boleto
+11877;26/03/2026;229;6;Loja Física;Concluído;Cartão de débito
+11878;16/02/2026;196;4;E-commerce;Em separação;Boleto
+11879;19/06/2025;72;2;Marketplace;Concluído;Cartão de crédito
+11880;24/04/2025;37;4;Televendas;Concluído;Boleto
+11881;11/02/2026;273;6;Televendas;Concluído;Cartão de débito
+11882;10/05/2026;12;2;Televendas;Concluído;PIX
+11883;14/05/2026;350;5;E-commerce;Concluído;PIX
+11884;29/05/2025;305;1;E-commerce;Concluído;Cartão de crédito
+11885;11/07/2026;232;2;E-commerce;Concluído;Boleto
+11886;09/12/2025;347;4;Marketplace;Cancelado;Cartão de débito
+11887;24/04/2025;143;5;Televendas;Concluído;Cartão de débito
+11888;05/08/2025;324;6;Marketplace;Concluído;PIX
+11889;22/06/2025;306;4;Marketplace;Cancelado;Cartão de débito
+11890;15/05/2026;288;5;Loja Física;Concluído;PIX
+11891;18/02/2025;59;2;Loja Física;Concluído;Cartão de débito
+11892;24/06/2026;169;3;Loja Física;Concluído;Cartão de crédito
+11893;13/06/2026;171;5;E-commerce;Concluído;Cartão de débito
+11894;12/08/2025;310;6;E-commerce;Concluído;Boleto
+11895;18/09/2025;253;4;E-commerce;Em separação;Cartão de crédito
+11896;27/08/2025;293;5;Marketplace;Concluído;Cartão de crédito
+11897;23/02/2025;309;2;Loja Física;Em separação;Cartão de débito
+11898;06/07/2026;238;2;Marketplace;Em separação;Cartão de crédito
+11899;05/03/2026;206;5;Loja Física;Concluído;PIX
+11900;20/05/2025;62;4;E-commerce;Concluído;Cartão de crédito
+11901;07/04/2025;316;5;E-commerce;Concluído;Cartão de crédito
+11902;31/10/2025;284;3;E-commerce;Concluído;Cartão de crédito
+11903;26/03/2026;211;3;Loja Física;Concluído;Cartão de débito
+11904;09/01/2025;314;5;Marketplace;Concluído;Cartão de débito
+11905;18/05/2025;154;3;Loja Física;Concluído;Cartão de crédito
+11906;22/11/2025;197;3;Marketplace;Concluído;PIX
+11907;26/01/2026;222;5;Televendas;Concluído;PIX
+11908;16/07/2025;312;6;Loja Física;Cancelado;PIX
+11909;12/07/2025;139;4;E-commerce;Concluído;Boleto
+11910;24/06/2026;196;4;Marketplace;Concluído;Cartão de débito
+11911;22/01/2025;231;3;E-commerce;Concluído;Cartão de crédito
+11912;09/01/2025;128;5;Televendas;Concluído;Cartão de débito
+11913;14/04/2026;64;5;E-commerce;Concluído;Boleto
+11914;22/01/2026;265;4;Televendas;Concluído;Boleto
+11915;27/03/2026;43;1;Loja Física;Devolvido;PIX
+11916;13/12/2025;40;5;Televendas;Em separação;Cartão de crédito
+11917;22/03/2026;295;5;Marketplace;Concluído;Boleto
+11918;16/02/2025;70;6;Marketplace;Em separação;Cartão de débito
+11919;25/08/2026;86;3;Televendas;Concluído;Cartão de crédito
+11920;18/05/2026;220;6;E-commerce;Concluído;Boleto
+11921;14/06/2026;332;3;E-commerce;Concluído;Cartão de débito
+11922;26/12/2025;114;1;Loja Física;Concluído;Cartão de crédito
+11923;02/08/2025;1;3;Marketplace;Concluído;Cartão de débito
+11924;17/09/2025;156;6;Marketplace;Concluído;Boleto
+11925;08/03/2026;46;4;Loja Física;Concluído;PIX
+11926;18/04/2026;237;4;E-commerce;Concluído;PIX
+11927;29/09/2025;254;3;Marketplace;Concluído;PIX
+11928;29/01/2025;123;4;Televendas;Concluído;Cartão de débito
+11929;12/11/2025;306;4;Marketplace;Concluído;Cartão de crédito
+11930;01/08/2025;31;5;Loja Física;Concluído;Cartão de crédito
+11931;27/09/2025;176;2;Marketplace;Concluído;Cartão de débito
+11932;14/01/2025;19;3;Televendas;Concluído;Cartão de crédito
+11933;22/08/2026;341;3;Televendas;Concluído;Cartão de débito
+11934;16/02/2026;219;1;Marketplace;Concluído;Cartão de débito
+11935;28/01/2026;281;2;Loja Física;Concluído;PIX
+11936;18/06/2025;120;6;E-commerce;Concluído;PIX
+11937;05/09/2025;320;5;Televendas;Concluído;PIX
+11938;10/08/2025;46;5;Televendas;Concluído;Boleto
+11939;12/04/2026;154;3;E-commerce;Concluído;Boleto
+11940;01/01/2026;43;5;Televendas;Concluído;Cartão de débito
+11941;20/07/2025;137;4;Marketplace;Concluído;Cartão de crédito
+11942;02/12/2025;176;5;Loja Física;Concluído;Boleto
+11943;20/01/2026;170;3;Loja Física;Concluído;Boleto
+11944;09/08/2026;47;5;Loja Física;Concluído;PIX
+11945;23/09/2025;66;6;E-commerce;Concluído;PIX
+11946;20/04/2026;124;1;Loja Física;Concluído;Boleto
+11947;16/02/2026;46;2;E-commerce;Concluído;Boleto
+11948;11/01/2025;231;4;Loja Física;Concluído;Cartão de crédito
+11949;22/02/2026;185;5;Marketplace;Concluído;Boleto
+11950;03/05/2025;286;6;E-commerce;Concluído;Cartão de crédito
+11951;03/03/2026;158;6;Loja Física;Em separação;Cartão de crédito
+11952;27/01/2026;329;4;Loja Física;Concluído;PIX
+11953;04/03/2026;258;2;E-commerce;Concluído;Cartão de débito
+11954;05/10/2025;255;5;Loja Física;Concluído;Cartão de crédito
+11955;26/07/2025;81;2;Loja Física;Concluído;Cartão de débito
+11956;29/05/2025;313;3;Loja Física;Concluído;PIX
+11957;24/01/2025;76;6;Televendas;Concluído;Cartão de débito
+11958;06/07/2025;135;1;Televendas;Concluído;Boleto
+11959;02/06/2026;170;4;Televendas;Devolvido;Boleto
+11960;18/03/2026;69;2;Televendas;Concluído;Cartão de débito
+11961;29/08/2026;12;1;Loja Física;Concluído;PIX
+11962;01/08/2025;169;1;Marketplace;Cancelado;Boleto
+11963;27/08/2026;63;3;Televendas;Concluído;Cartão de crédito
+11964;01/05/2026;111;6;Loja Física;Cancelado;Boleto
+11965;19/09/2025;262;5;Televendas;Concluído;Cartão de débito
+11966;23/06/2026;85;6;Loja Física;Concluído;Cartão de crédito
+11967;11/06/2026;176;4;Marketplace;Concluído;Cartão de débito
+11968;15/10/2025;295;3;Televendas;Concluído;Cartão de crédito
+11969;04/12/2025;308;6;E-commerce;Em separação;Cartão de débito
+11970;10/06/2025;220;4;Marketplace;Concluído;Cartão de crédito
+11971;17/02/2026;226;5;Televendas;Concluído;Cartão de crédito
+11972;01/06/2026;95;1;Loja Física;Concluído;PIX
+11973;13/08/2026;244;6;E-commerce;Concluído;Boleto
+11974;21/06/2025;246;4;Televendas;Concluído;Boleto
+11975;08/12/2025;113;4;E-commerce;Concluído;Cartão de débito
+11976;24/03/2026;249;3;Televendas;Concluído;PIX
+11977;28/06/2026;179;4;Televendas;Concluído;PIX
+11978;25/05/2026;233;3;Marketplace;Concluído;Cartão de crédito
+11979;12/02/2026;245;6;Marketplace;Concluído;Cartão de débito
+11980;08/05/2026;176;1;Loja Física;Concluído;Cartão de crédito
+11981;30/07/2025;345;1;Televendas;Em separação;PIX
+11982;01/04/2026;223;3;Televendas;Concluído;Cartão de crédito
+11983;04/07/2026;242;6;Televendas;Concluído;Cartão de débito
+11984;14/05/2026;208;6;E-commerce;Concluído;Cartão de crédito
+11985;16/09/2025;237;4;E-commerce;Concluído;Boleto
+11986;17/05/2025;89;3;Marketplace;Concluído;Boleto
+11987;19/01/2026;240;2;Marketplace;Concluído;PIX
+11988;15/05/2026;186;5;Loja Física;Concluído;Cartão de débito
+11989;26/09/2025;322;6;Loja Física;Concluído;Cartão de débito
+11990;19/01/2025;239;1;Marketplace;Concluído;Cartão de débito
+11991;28/08/2026;251;6;E-commerce;Devolvido;Cartão de crédito
+11992;07/02/2025;63;4;Loja Física;Concluído;Cartão de débito
+11993;01/02/2025;338;1;Loja Física;Concluído;Cartão de crédito
+11994;18/11/2025;349;1;Televendas;Em separação;PIX
+11995;17/07/2026;300;4;Televendas;Concluído;PIX
+11996;22/02/2026;24;4;Loja Física;Concluído;PIX
+11997;18/07/2025;314;1;Loja Física;Concluído;Cartão de crédito
+11998;05/08/2026;212;4;Loja Física;Em separação;Boleto
+11999;12/01/2025;341;1;Televendas;Concluído;PIX
+12000;05/07/2025;343;4;E-commerce;Em separação;Cartão de débito
+12001;12/05/2025;101;2;Loja Física;Concluído;PIX
+12002;08/12/2025;317;3;Televendas;Devolvido;Boleto
+12003;23/04/2025;267;1;Marketplace;Concluído;Cartão de débito
+12004;10/08/2025;228;6;Televendas;Concluído;Cartão de crédito
+12005;19/06/2026;125;2;E-commerce;Concluído;Cartão de crédito
+12006;09/07/2026;107;4;Loja Física;Concluído;Cartão de débito
+12007;31/08/2025;239;4;E-commerce;Concluído;Boleto
+12008;09/03/2025;326;4;E-commerce;Em separação;Cartão de débito
+12009;03/11/2025;53;5;Televendas;Concluído;PIX
+12010;15/06/2025;199;3;Marketplace;Concluído;Boleto
+12011;01/02/2026;129;5;Loja Física;Devolvido;Cartão de débito
+12012;28/04/2025;306;4;Loja Física;Concluído;Cartão de crédito
+12013;19/04/2026;142;2;Loja Física;Devolvido;PIX
+12014;22/05/2025;175;2;Televendas;Concluído;PIX
+12015;12/04/2026;188;3;Loja Física;Concluído;PIX
+12016;26/03/2025;3;4;Marketplace;Concluído;Boleto
+12017;22/01/2026;294;2;Marketplace;Concluído;PIX
+12018;04/06/2025;279;2;E-commerce;Concluído;Boleto
+12019;10/04/2026;52;4;Televendas;Concluído;Cartão de débito
+12020;28/05/2026;232;1;Marketplace;Concluído;Boleto
+12021;23/09/2025;60;5;Televendas;Concluído;Cartão de débito
+12022;27/08/2025;41;6;Televendas;Concluído;Cartão de crédito
+12023;08/04/2026;171;4;Marketplace;Devolvido;Boleto
+12024;01/07/2026;23;5;Marketplace;Concluído;Cartão de débito
+12025;24/10/2025;84;4;Loja Física;Concluído;Boleto
+12026;06/04/2026;186;3;Marketplace;Concluído;Cartão de débito
+12027;14/08/2026;108;3;Marketplace;Concluído;Cartão de crédito
+12028;26/06/2026;179;6;Televendas;Concluído;Cartão de débito
+12029;28/03/2026;234;4;Marketplace;Concluído;PIX
+12030;02/01/2026;64;2;Televendas;Concluído;Cartão de crédito
+12031;27/08/2026;118;3;Marketplace;Concluído;Cartão de débito
+12032;21/08/2025;349;1;Televendas;Concluído;PIX
+12033;09/11/2025;47;2;Marketplace;Concluído;Cartão de crédito
+12034;17/09/2025;272;5;Marketplace;Concluído;Cartão de débito
+12035;27/05/2025;272;1;Marketplace;Concluído;Cartão de débito
+12036;12/07/2026;204;1;E-commerce;Concluído;PIX
+12037;30/11/2025;287;4;Televendas;Em separação;PIX
+12038;14/11/2025;291;3;Televendas;Concluído;Cartão de crédito
+12039;05/01/2025;10;3;Loja Física;Concluído;PIX
+12040;05/01/2026;153;3;Marketplace;Concluído;Boleto
+12041;11/04/2025;183;2;Televendas;Concluído;Cartão de débito
+12042;27/10/2025;278;2;E-commerce;Concluído;Boleto
+12043;07/06/2025;118;2;Televendas;Concluído;Boleto
+12044;19/03/2026;255;5;Televendas;Concluído;Cartão de crédito
+12045;08/06/2025;282;6;Marketplace;Concluído;PIX
+12046;04/05/2026;300;3;E-commerce;Concluído;Cartão de crédito
+12047;31/03/2026;43;3;E-commerce;Devolvido;Cartão de débito
+12048;20/08/2026;211;2;Televendas;Concluído;Cartão de crédito
+12049;06/04/2026;121;6;Televendas;Concluído;Cartão de débito
+12050;16/06/2026;254;2;Televendas;Concluído;Cartão de crédito
+12051;09/08/2026;25;2;Marketplace;Em separação;Cartão de crédito
+12052;21/10/2025;5;5;Loja Física;Concluído;Boleto
+12053;01/09/2026;79;1;E-commerce;Concluído;PIX
+12054;02/10/2025;323;1;Loja Física;Concluído;PIX
+12055;08/03/2026;293;1;Loja Física;Concluído;Boleto
+12056;07/10/2025;230;3;E-commerce;Concluído;PIX
+12057;21/01/2025;87;2;Televendas;Concluído;PIX
+12058;17/01/2025;295;1;Loja Física;Concluído;Cartão de débito
+12059;23/02/2025;146;2;E-commerce;Concluído;Cartão de débito
+12060;08/08/2026;116;5;E-commerce;Concluído;PIX
+12061;26/07/2026;114;3;Televendas;Concluído;Cartão de crédito
+12062;02/08/2025;26;2;E-commerce;Concluído;Cartão de crédito
+12063;06/07/2026;192;2;Televendas;Concluído;PIX
+12064;16/05/2025;168;1;Loja Física;Concluído;Cartão de crédito
+12065;03/11/2025;175;4;Marketplace;Concluído;PIX
+12066;24/08/2026;47;2;Marketplace;Em separação;Boleto
+12067;23/04/2025;171;6;Televendas;Cancelado;Boleto
+12068;12/10/2025;210;2;Loja Física;Cancelado;Cartão de débito
+12069;04/07/2026;337;3;Televendas;Concluído;PIX
+12070;17/11/2025;22;3;E-commerce;Concluído;Cartão de débito
+12071;25/01/2025;259;1;Loja Física;Concluído;Cartão de crédito
+12072;11/04/2025;276;5;E-commerce;Concluído;Cartão de débito
+12073;20/06/2026;59;4;Televendas;Concluído;Boleto
+12074;07/03/2026;306;1;Marketplace;Concluído;Cartão de débito
+12075;09/06/2025;250;2;Loja Física;Concluído;Cartão de crédito
+12076;17/08/2025;15;5;E-commerce;Concluído;Cartão de débito
+12077;18/04/2026;41;3;Televendas;Concluído;Cartão de crédito
+12078;29/12/2025;221;1;Marketplace;Concluído;Boleto
+12079;24/12/2025;271;3;Televendas;Concluído;PIX
+12080;12/04/2025;194;4;Televendas;Concluído;PIX
+12081;25/10/2025;173;3;Loja Física;Concluído;Boleto
+12082;23/05/2026;206;6;Televendas;Concluído;Cartão de débito
+12083;12/09/2025;270;2;Loja Física;Concluído;Cartão de crédito
+12084;12/10/2025;55;4;Televendas;Concluído;Boleto
+12085;09/04/2026;168;6;Televendas;Concluído;PIX
+12086;25/04/2026;232;1;E-commerce;Concluído;Boleto
+12087;19/06/2025;260;1;Marketplace;Concluído;Cartão de débito
+12088;04/02/2025;299;5;Televendas;Concluído;Cartão de débito
+12089;27/11/2025;283;3;Marketplace;Concluído;Cartão de crédito
+12090;12/07/2026;202;2;Loja Física;Concluído;Cartão de débito
+12091;23/04/2025;273;1;E-commerce;Concluído;Cartão de débito
+12092;12/09/2025;343;5;Televendas;Concluído;Cartão de crédito
+12093;29/05/2026;291;6;Loja Física;Cancelado;PIX
+12094;05/08/2025;149;1;Loja Física;Concluído;Cartão de crédito
+12095;29/03/2025;119;2;Marketplace;Concluído;Cartão de débito
+12096;30/05/2026;185;4;Loja Física;Concluído;Boleto
+12097;31/05/2026;235;5;E-commerce;Concluído;PIX
+12098;04/02/2026;140;3;Televendas;Concluído;PIX
+12099;29/09/2025;133;5;Televendas;Concluído;PIX
+12100;23/10/2025;46;2;Televendas;Devolvido;Cartão de crédito
+12101;13/03/2026;231;3;E-commerce;Em separação;Cartão de crédito
+12102;20/02/2026;330;3;Marketplace;Concluído;Cartão de crédito
+12103;04/03/2025;144;4;Marketplace;Em separação;Cartão de débito
+12104;13/03/2025;240;1;E-commerce;Concluído;Cartão de crédito
+12105;25/04/2026;3;1;Televendas;Concluído;PIX
+12106;29/03/2026;55;5;Televendas;Cancelado;Cartão de crédito
+12107;10/03/2026;230;3;E-commerce;Concluído;Boleto
+12108;07/09/2025;1;1;Marketplace;Concluído;PIX
+12109;10/08/2025;291;3;Televendas;Concluído;PIX
+12110;21/01/2026;169;6;E-commerce;Cancelado;PIX
+12111;04/02/2026;226;1;Televendas;Concluído;Boleto
+12112;19/04/2026;312;2;Loja Física;Cancelado;Cartão de crédito
+12113;02/07/2026;306;4;Loja Física;Concluído;Boleto
+12114;08/07/2026;203;4;E-commerce;Concluído;PIX
+12115;03/02/2026;28;1;Loja Física;Concluído;Cartão de crédito
+12116;17/03/2025;213;1;Televendas;Concluído;Boleto
+12117;24/07/2026;263;2;E-commerce;Concluído;Boleto
+12118;26/09/2025;271;1;Televendas;Concluído;Cartão de débito
+12119;22/05/2025;65;1;E-commerce;Cancelado;Cartão de crédito
+12120;14/07/2025;212;3;Loja Física;Concluído;Cartão de débito
+12121;19/04/2026;223;3;Loja Física;Cancelado;PIX
+12122;03/07/2025;176;2;E-commerce;Cancelado;Cartão de débito
+12123;10/07/2025;161;2;Televendas;Concluído;Boleto
+12124;29/04/2025;39;3;E-commerce;Concluído;Cartão de débito
+12125;21/11/2025;179;5;Loja Física;Concluído;Cartão de débito
+12126;14/08/2026;51;6;E-commerce;Concluído;Boleto
+12127;05/06/2026;153;1;Loja Física;Concluído;Boleto
+12128;20/07/2025;309;3;Televendas;Cancelado;Boleto
+12129;07/03/2025;246;6;E-commerce;Devolvido;Cartão de débito
+12130;01/06/2025;182;4;Televendas;Cancelado;Cartão de crédito
+12131;26/10/2025;83;2;E-commerce;Concluído;Cartão de crédito
+12132;02/02/2025;261;6;E-commerce;Concluído;PIX
+12133;19/06/2026;269;2;Loja Física;Concluído;Cartão de débito
+12134;03/01/2025;242;2;Loja Física;Concluído;Cartão de débito
+12135;27/04/2026;130;6;Loja Física;Concluído;PIX
+12136;20/01/2025;10;3;Loja Física;Concluído;Cartão de crédito
+12137;03/08/2025;215;1;Televendas;Concluído;PIX
+12138;26/05/2025;328;3;E-commerce;Devolvido;Boleto
+12139;31/01/2025;311;1;Televendas;Concluído;PIX
+12140;30/01/2026;286;4;Marketplace;Concluído;PIX
+12141;07/03/2025;10;4;Loja Física;Concluído;Boleto
+12142;17/05/2026;209;3;E-commerce;Concluído;Cartão de débito
+12143;07/01/2025;163;1;Televendas;Concluído;Cartão de débito
+12144;06/12/2025;191;2;E-commerce;Concluído;PIX
+12145;17/07/2025;234;6;Televendas;Concluído;PIX
+12146;23/07/2025;306;3;Loja Física;Concluído;Cartão de crédito
+12147;24/11/2025;260;6;Televendas;Cancelado;Cartão de débito
+12148;18/09/2025;184;5;Loja Física;Concluído;Cartão de débito
+12149;15/05/2025;92;5;E-commerce;Concluído;Boleto
+12150;01/04/2026;254;5;Loja Física;Concluído;PIX
+12151;17/04/2025;45;4;Loja Física;Concluído;Boleto
+12152;20/01/2026;32;1;E-commerce;Concluído;Cartão de débito
+12153;15/08/2026;265;5;E-commerce;Concluído;Cartão de débito
+12154;06/05/2026;296;5;E-commerce;Concluído;Boleto
+12155;10/06/2026;188;6;Televendas;Concluído;Cartão de crédito
+12156;27/04/2026;122;4;Marketplace;Concluído;Boleto
+12157;08/04/2026;207;5;E-commerce;Concluído;PIX
+12158;23/09/2025;128;3;E-commerce;Em separação;Boleto
+12159;10/08/2026;220;3;Marketplace;Concluído;PIX
+12160;04/08/2025;30;4;Loja Física;Concluído;Cartão de débito
+12161;02/06/2025;98;2;Marketplace;Concluído;PIX
+12162;08/12/2025;350;1;E-commerce;Concluído;PIX
+12163;01/09/2026;28;2;E-commerce;Devolvido;PIX
+12164;01/01/2026;161;3;Marketplace;Concluído;Cartão de crédito
+12165;05/03/2026;159;3;Marketplace;Concluído;Cartão de débito
+12166;15/01/2025;215;3;Loja Física;Concluído;Cartão de débito
+12167;09/07/2026;333;2;Loja Física;Concluído;Boleto
+12168;18/08/2026;171;1;E-commerce;Devolvido;PIX
+12169;26/08/2025;331;2;Televendas;Concluído;PIX
+12170;06/02/2025;15;5;E-commerce;Concluído;PIX
+12171;31/03/2026;192;3;Loja Física;Concluído;Cartão de débito
+12172;25/01/2025;35;3;Loja Física;Concluído;Cartão de crédito
+12173;23/03/2026;307;4;E-commerce;Em separação;Cartão de débito
+12174;26/08/2026;326;1;E-commerce;Concluído;Cartão de débito
+12175;13/06/2025;89;4;Loja Física;Cancelado;PIX
+12176;10/04/2026;28;3;Marketplace;Concluído;Boleto
+12177;27/01/2025;41;2;Televendas;Devolvido;Cartão de crédito
+12178;18/05/2026;210;1;Televendas;Concluído;Cartão de crédito
+12179;14/09/2025;241;4;Marketplace;Concluído;Cartão de crédito
+12180;11/06/2026;257;5;Televendas;Em separação;PIX
+12181;22/01/2026;132;1;Televendas;Concluído;Boleto
+12182;12/02/2026;278;5;Loja Física;Concluído;Cartão de crédito
+12183;28/06/2025;135;2;Marketplace;Concluído;Boleto
+12184;24/07/2026;11;5;Televendas;Concluído;Cartão de crédito
+12185;26/02/2025;242;3;Loja Física;Concluído;PIX
+12186;02/12/2025;35;1;Loja Física;Em separação;Cartão de crédito
+12187;24/05/2026;285;6;Marketplace;Concluído;PIX
+12188;23/10/2025;290;4;E-commerce;Concluído;PIX
+12189;09/01/2026;320;5;Televendas;Concluído;Cartão de débito
+12190;21/06/2025;178;2;Televendas;Concluído;Boleto
+12191;05/08/2025;226;3;Loja Física;Em separação;Boleto
+12192;24/08/2025;228;4;Televendas;Concluído;Cartão de débito
+12193;05/11/2025;307;6;Loja Física;Concluído;Boleto
+12194;16/02/2025;346;3;Televendas;Concluído;Boleto
+12195;24/03/2026;108;2;Marketplace;Concluído;PIX
+12196;15/06/2026;191;6;Loja Física;Devolvido;Boleto
+12197;26/02/2026;61;5;E-commerce;Concluído;Cartão de débito
+12198;09/06/2025;76;6;Televendas;Concluído;Boleto
+12199;25/05/2025;33;3;Televendas;Devolvido;Boleto
+12200;15/07/2026;130;6;Televendas;Devolvido;PIX
+12201;07/07/2025;256;3;Loja Física;Concluído;Boleto
